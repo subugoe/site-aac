@@ -3,6 +3,10 @@
     {
       "type": "composer",
       "url": "https://composer.typo3.org/"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/subugoe/typo3-tmpl_fidaac"
     }
   ],
   "name": "subugoe/aac-site",
@@ -11,7 +15,13 @@
   "type": "project",
   "require": {
     "typo3/cms": "8.7.*",
-    "helhum/typo3-console": "^4.4"
+    "helhum/typo3-console": "^4.4",
+    "subugoe/tmpl-fidaac": "dev-develop",
+    "georgringer/news": "^6.0",
+    "subugoe/pazpar2": "^6.0",
+    "dmitryd/typo3-realurl": "^2.2",
+    "subugoe/find": "^3.1",
+    "apache-solr-for-typo3/solr": "^7.0"
   },
   "scripts": {
     "typo3-cms-scripts": [

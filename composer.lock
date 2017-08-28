@@ -4,8 +4,75 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "e5f81a3ffcc44ba3741e5868a2aab2ee",
+    "content-hash": "31886b3f3dd52378914f0fc90e44b771",
     "packages": [
+        {
+            "name": "apache-solr-for-typo3/solr",
+            "version": "7.0.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/TYPO3-Solr/ext-solr.git",
+                "reference": "de84bf48b150e55b1ff5fa3ef081d9e9c9e205bb"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/TYPO3-Solr/ext-solr/zipball/de84bf48b150e55b1ff5fa3ef081d9e9c9e205bb",
+                "reference": "de84bf48b150e55b1ff5fa3ef081d9e9c9e205bb",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=7.0.0",
+                "typo3/cms": ">=8.7.0"
+            },
+            "replace": {
+                "apache-solr-for-typo3/solrfluid": "*",
+                "solr": "self.version",
+                "typo3-ter/solr": "self.version"
+            },
+            "require-dev": {
+                "nimut/testing-framework": "^1.1",
+                "phpunit/phpunit": "^5.6"
+            },
+            "type": "typo3-cms-extension",
+            "extra": {
+                "branch-alias": {
+                    "dev-master": "7.0.x-dev"
+                },
+                "typo3/cms": {
+                    "extension-key": "solr",
+                    "cms-package-dir": "{$vendor-dir}/typo3/cms",
+                    "web-dir": ".Build/Web"
+                }
+            },
+            "autoload": {
+                "classmap": [
+                    "Resources/Private/Php/"
+                ],
+                "psr-4": {
+                    "ApacheSolrForTypo3\\Solr\\": "Classes/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "GPL-2.0+"
+            ],
+            "authors": [
+                {
+                    "name": "Ingo Renner",
+                    "email": "ingo@typo3.org",
+                    "role": "Lead Developer"
+                }
+            ],
+            "description": "Apache Solr for TYPO3",
+            "homepage": "http://www.typo3-solr.com",
+            "keywords": [
+                "TYPO3 CMS",
+                "search",
+                "solr",
+                "typo3"
+            ],
+            "time": "2017-08-15T08:08:24+00:00"
+        },
         {
             "name": "cogpowered/finediff",
             "version": "0.3.1",
@@ -56,6 +123,72 @@
                 "text"
             ],
             "time": "2014-05-19T10:25:02+00:00"
+        },
+        {
+            "name": "dmitryd/typo3-realurl",
+            "version": "2.2.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/dmitryd/typo3-realurl.git",
+                "reference": "ce1fe49770c7cd86b101fa7f09dc304e4255d59e"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/dmitryd/typo3-realurl/zipball/ce1fe49770c7cd86b101fa7f09dc304e4255d59e",
+                "reference": "ce1fe49770c7cd86b101fa7f09dc304e4255d59e",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.4.0",
+                "typo3/cms-core": ">=6.2.0,<8.7.999"
+            },
+            "conflict": {
+                "bednee/cooluri": ">0.0.1",
+                "helhum/realurl": ">0.0.1",
+                "typo3-ter/cooluri": ">=0.0.1",
+                "typo3-ter/simulatestatic": ">0.0.1"
+            },
+            "replace": {
+                "realurl": "self.version",
+                "typo3-ter/realurl": "self.version"
+            },
+            "require-dev": {
+                "phpunit/phpunit": "~4.8.0"
+            },
+            "suggest": {
+                "typo3-ter/static-info-tables": ">=6.2.0"
+            },
+            "type": "typo3-cms-extension",
+            "extra": {
+                "typo3/cms": {
+                    "cms-package-dir": "{$vendor-dir}/typo3/cms",
+                    "web-dir": ".Build/Web"
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "DmitryDulepov\\Realurl\\": "Classes"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "GPL-3.0+"
+            ],
+            "authors": [
+                {
+                    "name": "Dmitry Dulepov",
+                    "email": "dmitry.dulepov@gmail.com",
+                    "homepage": "http://www.dmitry-dulepov.com/"
+                }
+            ],
+            "description": "Speaking URLs for TYPO3",
+            "homepage": "https://github.com/dmitryd/typo3-realurl",
+            "keywords": [
+                "RealURL",
+                "cms",
+                "typo3"
+            ],
+            "time": "2017-05-11T00:00:00+00:00"
         },
         {
             "name": "doctrine/annotations",
@@ -582,6 +715,72 @@
             "time": "2014-09-09T13:34:57+00:00"
         },
         {
+            "name": "georgringer/news",
+            "version": "6.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/georgringer/news.git",
+                "reference": "4ff1bf88a3a89a74479205524d9fda56ea9505c1"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/georgringer/news/zipball/4ff1bf88a3a89a74479205524d9fda56ea9505c1",
+                "reference": "4ff1bf88a3a89a74479205524d9fda56ea9505c1",
+                "shasum": ""
+            },
+            "require": {
+                "typo3/cms-core": "^7.6.13 || >=8.5.0 <9"
+            },
+            "replace": {
+                "news": "self.version",
+                "typo3-ter/news": "self.version"
+            },
+            "require-dev": {
+                "friendsofphp/php-cs-fixer": "^2.0",
+                "nimut/testing-framework": "^1.0",
+                "phpunit/phpunit": "~4.8.0"
+            },
+            "suggest": {
+                "dmitryd/typo3-dd-googlesitemap": "~2.0",
+                "reelworx/rx-shariff": "~10.0"
+            },
+            "type": "typo3-cms-extension",
+            "extra": {
+                "branch-alias": {
+                    "dev-master": "6.x-dev"
+                },
+                "typo3/cms": {
+                    "cms-package-dir": "{$vendor-dir}/typo3/cms",
+                    "web-dir": ".Build/Web"
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "GeorgRinger\\News\\": "Classes"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "GPL-2.0+"
+            ],
+            "authors": [
+                {
+                    "name": "Georg Ringer",
+                    "homepage": "http://montagmorgen.at",
+                    "role": "Developer"
+                }
+            ],
+            "description": "Versatile news extension, based on extbase & fluid for TYPO3 CMS",
+            "homepage": "http://montagmorgen.at",
+            "keywords": [
+                "article",
+                "extension",
+                "news",
+                "typo3"
+            ],
+            "time": "2017-04-21T18:19:21+00:00"
+        },
+        {
             "name": "guzzlehttp/guzzle",
             "version": "6.3.0",
             "source": {
@@ -1047,6 +1246,127 @@
                 "psr-3"
             ],
             "time": "2016-10-10T12:19:37+00:00"
+        },
+        {
+            "name": "subugoe/find",
+            "version": "3.1.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/subugoe/typo3-find.git",
+                "reference": "12ba8b06cdd0c0d0dcf4c8cd9072fbe671d8cbd0"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/subugoe/typo3-find/zipball/12ba8b06cdd0c0d0dcf4c8cd9072fbe671d8cbd0",
+                "reference": "12ba8b06cdd0c0d0dcf4c8cd9072fbe671d8cbd0",
+                "shasum": ""
+            },
+            "require": {
+                "typo3/cms": "^7.6.15 || ^8.5"
+            },
+            "replace": {
+                "subugoe/find": "self.version",
+                "typo3-ter/find": "self.version"
+            },
+            "require-dev": {
+                "phpunit/phpunit": "~4.6",
+                "solarium/solarium": "~3.3"
+            },
+            "suggest": {
+                "solarium/solarium": "Allows using the SolrServiceProvider"
+            },
+            "type": "typo3-cms-extension",
+            "extra": {
+                "typo3/cms": {
+                    "cms-package-dir": "{$vendor-dir}/typo3/cms",
+                    "web-dir": ".Build/Web"
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "Subugoe\\Find\\": "Classes/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "GPL-2.0+"
+            ],
+            "authors": [
+                {
+                    "name": "Sven-S. Porst, Ingo Pfennigstorf",
+                    "email": "pfennigstorf@sub.uni-goettingen.de",
+                    "role": "Developer"
+                }
+            ],
+            "description": "A frontend for Solr indexes",
+            "keywords": [
+                "TYPO3 CMS"
+            ],
+            "time": "2017-01-24T12:15:58+00:00"
+        },
+        {
+            "name": "subugoe/pazpar2",
+            "version": "6.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/subugoe/typo3-pazpar2.git",
+                "reference": "0dcc4606f7165607a691dcc36b45c047bdfd1c63"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/subugoe/typo3-pazpar2/zipball/0dcc4606f7165607a691dcc36b45c047bdfd1c63",
+                "reference": "0dcc4606f7165607a691dcc36b45c047bdfd1c63",
+                "shasum": ""
+            },
+            "type": "typo3-cms-extension",
+            "autoload": {
+                "psr-4": {
+                    "Subugoe\\Pazpar2\\": "Classes/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "GPL-2.0+"
+            ],
+            "authors": [
+                {
+                    "name": "Ingo Pfennigstorf",
+                    "email": "pfennigstorf@sub.uni-goettingen.de"
+                }
+            ],
+            "description": "Pazpar2 for TYPO3",
+            "time": "2017-08-28T10:22:47+00:00"
+        },
+        {
+            "name": "subugoe/tmpl-fidaac",
+            "version": "dev-develop",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/subugoe/typo3-tmpl_fidaac.git",
+                "reference": "580aa774165dca65b5476d0d4726513a203ecdbf"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/subugoe/typo3-tmpl_fidaac/zipball/580aa774165dca65b5476d0d4726513a203ecdbf",
+                "reference": "580aa774165dca65b5476d0d4726513a203ecdbf",
+                "shasum": ""
+            },
+            "type": "typo3-cms-extension",
+            "license": [
+                "GPL-2.0"
+            ],
+            "authors": [
+                {
+                    "name": "Ingo Pfennigstorf",
+                    "email": "i.pfennigstorf@gmail.com"
+                }
+            ],
+            "description": "FID AAC Website template",
+            "support": {
+                "source": "https://github.com/subugoe/typo3-tmpl_fidaac/tree/develop",
+                "issues": "https://github.com/subugoe/typo3-tmpl_fidaac/issues"
+            },
+            "time": "2017-08-25T09:22:17+00:00"
         },
         {
             "name": "swiftmailer/swiftmailer",
@@ -1816,7 +2136,9 @@
     "packages-dev": [],
     "aliases": [],
     "minimum-stability": "stable",
-    "stability-flags": [],
+    "stability-flags": {
+        "subugoe/tmpl-fidaac": 20
+    },
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": [],
