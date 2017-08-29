@@ -20,6 +20,7 @@ return [
     ],
     'EXT' => [
         'extConf' => [
+            'belog' => 'a:0:{}',
             'beuser' => 'a:0:{}',
             'documentation' => 'a:0:{}',
             'filemetadata' => 'a:0:{}',

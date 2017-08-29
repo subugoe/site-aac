@@ -22,3 +22,4 @@ web/typo3conf/ENABLE_INSTALL_TOOL
 /.php_cs.cache
 realurl_NewsPageIds.php
 /web/typo3conf/InstanceConfiguration.php
+deprecation_*.log
