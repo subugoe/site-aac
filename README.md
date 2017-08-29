@@ -1,45 +1,50 @@
-# TYPO3 CMS Base Distribution
+# TYPO3 AAC Distribution
 
-Get going quickly with TYPO3 CMS.
+AAC Website with MySQL and Solr.
 
 ## Prerequisites
 
 * composer
 * docker-compose
 
-## Quickstart
+## Configuration
 
-* `composer create-project cedricziel/typo3-base-distribution project-name 8.7.*`
-* `cd project-name`
-* `docker-compose up -d`
+Create a file ```InstanceConfiguration.php``` in ```typo3conf``` with and change the parameters as needed:
 
-**setup unattended:**
+```$php
+<?php
+$GLOBALS['TYPO3_CONF_VARS']['BE']['installToolPassword'] = 'your-secret-hashed-install-tool-password';
+$GLOBALS['TYPO3_CONF_VARS']['DB'] = [
+    'Connections' => [
+        'Default' => [
+            'charset' => 'utf8',
+            'dbname' => 'typo3',
+            'driver' => 'mysqli',
+            'host' => 'mysql',
+            'password' => 'typo3',
+            'port' => 3306,
+            'user' => 'typo3',
+        ],
+    ],
+];
+
+
+$GLOBALS['TYPO3_CONF_VARS']['SYS']['encryptionKey'] = 'your-secret-encryption-key';
 
 ```
-vendor/bin/typo3cms install:setup \
-    --non-interactive \
-    --database-user-name=typo3 \
-    --database-user-password=typo3 \
-    --database-host-name=127.0.0.1 \
-    --database-port=33060 \
-    --database-name=typo3 \
-    --use-existing-database \
-    --admin-user-name=admin \
-    --admin-password=password \
-    --site-setup-type=site
-```
 
-* `TYPO3_CONTEXT=Development php -S localhost:8000 -t web`
-* open your browser at "http://localhost:8000"
+## Startup
 
-## Tasks
+```docker-compose up -d``` will start your application and provides a web server at http://localhost:8900, a Solr instance
+at http://localhost:8999, a MySQL instance at 127.0.0.1:33061.
 
-* tbd
+Internally the services are exposed at:
 
-### Backup
+* mysql:3306
+* solr:8983
 
-* tbd
+* open your browser at "http://localhost:8900"
 
-# License
+## Maintenance
 
-GPL-2.0+
+```docker-compose run --rm web cd /app;  composer install```
