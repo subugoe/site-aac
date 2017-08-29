@@ -38,6 +38,8 @@ return [
             't3editor' => 'a:0:{}',
             'tmpl_fidaac' => 'a:0:{}',
             'tstemplate' => 'a:0:{}',
+            'vhs' => 'a:1:{s:20:"disableAssetHandling";s:1:"0";}',
+            'workspaces' => 'a:0:{}',
         ],
     ],
     'EXTCONF' => [

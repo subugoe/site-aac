@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "cbeec7d1654fcf5de2d23ef136884252",
+    "content-hash": "c85ffe67b43d7d87a22bb9a2cbb438e8",
     "packages": [
         {
             "name": "apache-solr-for-typo3/solr",
@@ -22,7 +22,7 @@
             },
             "require": {
                 "php": ">=7.0.0",
-                "typo3/cms": ">=8.7.0"
+                "typo3/cmscomposer require fluidtypo3/vhs": ">=8.7.0"
             },
             "replace": {
                 "apache-solr-for-typo3/solrfluid": "*",
@@ -713,6 +713,62 @@
                 "parser"
             ],
             "time": "2014-09-09T13:34:57+00:00"
+        },
+        {
+            "name": "fluidtypo3/vhs",
+            "version": "4.3.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/FluidTYPO3/vhs.git",
+                "reference": "6da9f7e786c64f80bfa4e0b989751da7a70e8495"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/FluidTYPO3/vhs/zipball/6da9f7e786c64f80bfa4e0b989751da7a70e8495",
+                "reference": "6da9f7e786c64f80bfa4e0b989751da7a70e8495",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=7.0.0",
+                "typo3/cms": ">=7.6.13, <=7.6.99|^8.4.1|dev-master"
+            },
+            "replace": {
+                "typo3-ter/vhs": "self.version",
+                "vhs": "self.version"
+            },
+            "require-dev": {
+                "fluidtypo3/development": "^3.0"
+            },
+            "suggest": {
+                "ext-tidy": "Allows to make use of the tidy ViewHelper"
+            },
+            "type": "typo3-cms-extension",
+            "extra": {
+                "typo3/cms": {
+                    "cms-package-dir": "{$vendor-dir}/typo3/cms",
+                    "web-dir": "build/web"
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "FluidTYPO3\\Vhs\\": "Classes/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "GPL-2.0+"
+            ],
+            "description": "The vhs package from FluidTYPO3",
+            "homepage": "https://fluidtypo3.org",
+            "keywords": [
+                "TYPO3 CMS",
+                "fedext",
+                "fluid",
+                "templating",
+                "utility",
+                "viewhelper"
+            ],
+            "time": "2017-08-27T22:52:45+00:00"
         },
         {
             "name": "georgringer/news",
