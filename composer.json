@@ -21,7 +21,8 @@
     "subugoe/pazpar2": "^6.0",
     "dmitryd/typo3-realurl": "^2.2",
     "subugoe/find": "^3.1",
-    "apache-solr-for-typo3/solr": "^7.0"
+    "apache-solr-for-typo3/solr": "^7.0",
+    "subugoe/nkwgok": "8.x-dev"
   },
   "scripts": {
     "typo3-cms-scripts": [

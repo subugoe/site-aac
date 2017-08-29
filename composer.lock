@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "31886b3f3dd52378914f0fc90e44b771",
+    "content-hash": "cbeec7d1654fcf5de2d23ef136884252",
     "packages": [
         {
             "name": "apache-solr-for-typo3/solr",
@@ -1305,6 +1305,39 @@
             "time": "2017-01-24T12:15:58+00:00"
         },
         {
+            "name": "subugoe/nkwgok",
+            "version": "8.x-dev",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/subugoe/typo3-nkwgok.git",
+                "reference": "547607dd0925e4f45d5a37d80f52d1ba3edbcb29"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/subugoe/typo3-nkwgok/zipball/547607dd0925e4f45d5a37d80f52d1ba3edbcb29",
+                "reference": "547607dd0925e4f45d5a37d80f52d1ba3edbcb29",
+                "shasum": ""
+            },
+            "type": "typo3-cms-extension",
+            "autoload": {
+                "psr-4": {
+                    "Subugoe\\Nkwgok\\": "Classes/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "GPL-2.0+"
+            ],
+            "authors": [
+                {
+                    "name": "Ingo Pfennigstorf",
+                    "email": "i.pfennigstorf@gmail.com"
+                }
+            ],
+            "description": "Subject hierarchy for TYPO3",
+            "time": "2017-05-04T08:12:29+00:00"
+        },
+        {
             "name": "subugoe/pazpar2",
             "version": "6.0.0",
             "source": {
@@ -2136,7 +2169,8 @@
     "aliases": [],
     "minimum-stability": "stable",
     "stability-flags": {
-        "subugoe/tmpl-fidaac": 20
+        "subugoe/tmpl-fidaac": 20,
+        "subugoe/nkwgok": 20
     },
     "prefer-stable": false,
     "prefer-lowest": false,
