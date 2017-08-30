@@ -14,7 +14,7 @@ web/typo3
 web/uploads
 web/fileadmin
 web/typo3temp
-web/typo3conf/PackageStates.php
+!web/typo3conf/PackageStates.php
 web/fileadmin/_temp_
 web/fileadmin/user_upload
 web/typo3conf/ext/*
