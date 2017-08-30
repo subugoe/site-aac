@@ -4,8 +4,10 @@ AAC Website with MySQL and Solr.
 
 ## Prerequisites
 
-* composer
-* docker-compose
+* [composer](https://getcomposer.org/download/)
+* [docker-compose](https://docs.docker.com/compose/install/)
+
+Make sure you are using the latest versions.
 
 ## Configuration
 
