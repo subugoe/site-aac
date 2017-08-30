@@ -92,6 +92,9 @@ return [
         'find' => [
             'packagePath' => 'typo3conf/ext/find/',
         ],
+        'metaseo' => [
+            'packagePath' => 'typo3conf/ext/metaseo/',
+        ],
         'news' => [
             'packagePath' => 'typo3conf/ext/news/',
         ],
