@@ -74,7 +74,7 @@ return [
         'caching' => [
             'cacheConfigurations' => [
                 'extbase_object' => [
-                    'backend' => 'TYPO3\\CMS\\Core\\Cache\\Backend\\ApcuBackend',
+                    'backend' => 'TYPO3\\CMS\\Core\\Cache\\Backend\\Typo3DatabaseBackend',
                     'frontend' => 'TYPO3\\CMS\\Core\\Cache\\Frontend\\VariableFrontend',
                     'groups' => [
                         'system',

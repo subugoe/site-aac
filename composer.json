@@ -15,7 +15,7 @@
   "type": "project",
   "require": {
     "typo3/cms": "8.7.*",
-    "helhum/typo3-console": "^4.4",
+    "helhum/typo3-console": "^4.7",
     "subugoe/tmpl-fidaac": "dev-develop",
     "georgringer/news": "^6.0",
     "subugoe/pazpar2": "^6.0",
@@ -23,7 +23,8 @@
     "subugoe/find": "^3.1",
     "apache-solr-for-typo3/solr": "^7.0",
     "subugoe/nkwgok": "8.x-dev",
-    "fluidtypo3/vhs": "^4.3"
+    "fluidtypo3/vhs": "^4.3",
+    "webdevops/metaseo": "^3.0"
   },
   "scripts": {
     "typo3-cms-scripts": [

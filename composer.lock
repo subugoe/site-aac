@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "c85ffe67b43d7d87a22bb9a2cbb438e8",
+    "content-hash": "c77a0dfa1554f387b3618adb6c33bbc7",
     "packages": [
         {
             "name": "apache-solr-for-typo3/solr",
@@ -2222,6 +2222,48 @@
             ],
             "description": "The TYPO3 Fluid template rendering engine",
             "time": "2017-08-25T10:10:42+00:00"
+        },
+        {
+            "name": "webdevops/metaseo",
+            "version": "3.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/webdevops/TYPO3-metaseo.git",
+                "reference": "a67831dbf3e3e81d0ff367dc9060f7948cb3b288"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/webdevops/TYPO3-metaseo/zipball/a67831dbf3e3e81d0ff367dc9060f7948cb3b288",
+                "reference": "a67831dbf3e3e81d0ff367dc9060f7948cb3b288",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=7.0.0",
+                "typo3/cms-core": ">=8.7.0,<9.0"
+            },
+            "replace": {
+                "metaseo": "self.version",
+                "typo3-ter/metaseo": "self.version"
+            },
+            "type": "typo3-cms-extension",
+            "autoload": {
+                "psr-4": {
+                    "Metaseo\\Metaseo\\": "Classes/"
+                }
+            },
+            "license": [
+                "GPL-3.0+"
+            ],
+            "description": "SEO extension for TYPO3",
+            "homepage": "https://github.com/mblaschke/TYPO3-metaseo",
+            "keywords": [
+                "TYPO3 CMS"
+            ],
+            "support": {
+                "issues": "https://github.com/mblaschke/TYPO3-metaseo/issues",
+                "source": "https://github.com/mblaschke/TYPO3-metaseo/tree/3.0.0"
+            },
+            "time": "2017-06-11T16:53:35+00:00"
         }
     ],
     "packages-dev": [],
