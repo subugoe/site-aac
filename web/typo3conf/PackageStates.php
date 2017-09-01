@@ -98,6 +98,9 @@ return [
         'news' => [
             'packagePath' => 'typo3conf/ext/news/',
         ],
+        'nkwgok' => [
+            'packagePath' => 'typo3conf/ext/nkwgok/',
+        ],
         'pazpar2' => [
             'packagePath' => 'typo3conf/ext/pazpar2/',
         ],
