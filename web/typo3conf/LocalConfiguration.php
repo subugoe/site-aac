@@ -27,7 +27,7 @@ return [
             'find' => 'a:0:{}',
             'fluid_styled_content' => 'a:0:{}',
             'info_pagetsconfig' => 'a:0:{}',
-            'metaseo' => 'a:4:{s:10:"pagingSize";s:0:"";s:10:"enableBeta";s:0:"";s:23:"enableIntegrationTTNews";s:1:"1";s:29:"sitemap_clearCachePossibility";s:0:"";}',
+            'metaseo' => 'a:4:{s:10:"pagingSize";s:0:"";s:10:"enableBeta";s:1:"0";s:23:"enableIntegrationTTNews";s:1:"1";s:29:"sitemap_clearCachePossibility";s:0:"";}',
             'news' => 'a:15:{s:13:"prependAtCopy";s:1:"1";s:6:"tagPid";s:1:"1";s:12:"rteForTeaser";s:1:"0";s:22:"contentElementRelation";s:1:"1";s:21:"contentElementPreview";s:1:"1";s:13:"manualSorting";s:1:"0";s:19:"categoryRestriction";s:0:"";s:34:"categoryBeGroupTceFormsRestriction";s:1:"0";s:19:"dateTimeNotRequired";s:1:"0";s:11:"archiveDate";s:4:"date";s:24:"showAdministrationModule";s:1:"1";s:35:"hidePageTreeForAdministrationModule";s:1:"0";s:12:"showImporter";s:1:"0";s:18:"storageUidImporter";s:1:"1";s:22:"resourceFolderImporter";s:12:"/news_import";}',
             'pazpar2' => 'a:1:{s:10:"backendUrl";s:55:"http://pazpar2.sub.uni-goettingen.de/pazpar2/search.pz2";}',
             'realurl' => 'a:6:{s:10:"configFile";s:26:"typo3conf/realurl_conf.php";s:14:"enableAutoConf";s:1:"1";s:14:"autoConfFormat";s:1:"0";s:17:"segTitleFieldList";s:0:"";s:12:"enableDevLog";s:1:"0";s:10:"moduleIcon";s:1:"0";}',
@@ -44,6 +44,9 @@ return [
         ],
     ],
     'EXTCONF' => [
+        'helhum-typo3-console' => [
+            'initialUpgradeDone' => '8.7',
+        ],
         'lang' => [
             'availableLanguages' => [],
         ],
