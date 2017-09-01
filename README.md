@@ -48,6 +48,6 @@ Internally the services are exposed at:
 
 ## Maintenance
 
-```docker-compose run --rm --workdir="/app" web composer install```
+```docker-compose run --rm --workdir="/app" --user="1000" web composer install```
 
-Ensure that all composer and typo3cms related commands are executed in the docker container with ```docker-compose run --rm --workdir="/app" web yor-fancy-command```
+Ensure that all composer and typo3cms related commands are executed in the docker container with ```docker-compose run --rm --workdir="/app" --user="1000" web yor-fancy-command```
