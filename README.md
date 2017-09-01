@@ -30,7 +30,6 @@ $GLOBALS['TYPO3_CONF_VARS']['DB'] = [
     ],
 ];
 
-
 $GLOBALS['TYPO3_CONF_VARS']['SYS']['encryptionKey'] = 'your-secret-encryption-key';
 
 ```
