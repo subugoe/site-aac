@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "a6018dfab8b6edb2879acdf207a83e78",
-    "content-hash": "c77a0dfa1554f387b3618adb6c33bbc7",
+    "hash": "655b6f1dd9deff468a2fc4f9fccec157",
+    "content-hash": "d8a9e9d9182945371cccc81ef1c892f9",
     "packages": [
         {
             "name": "apache-solr-for-typo3/solr",
@@ -1157,6 +1157,53 @@
                 "typo3 console"
             ],
             "time": "2017-08-14 13:44:01"
+        },
+        {
+            "name": "in2code/powermail",
+            "version": "3.22.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/einpraegsam/powermail.git",
+                "reference": "51a733f738f22983ea85b331f4ce2f882cb777be"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/einpraegsam/powermail/zipball/51a733f738f22983ea85b331f4ce2f882cb777be",
+                "reference": "51a733f738f22983ea85b331f4ce2f882cb777be",
+                "shasum": ""
+            },
+            "require": {
+                "typo3/cms": ">=7.6.0 <9.0.0"
+            },
+            "replace": {
+                "powermail": "self.version",
+                "typo3-ter/powermail": "self.version"
+            },
+            "type": "typo3-cms-extension",
+            "autoload": {
+                "psr-4": {
+                    "In2code\\Powermail\\": "Classes/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "GPL-3.0"
+            ],
+            "authors": [
+                {
+                    "name": "Alex Kellner",
+                    "email": "alexander.kellner@in2code.de"
+                }
+            ],
+            "description": "Powermail is a well-known, editor-friendly, powerful and easy to use mailform extension with a lots of features",
+            "homepage": "https://github.com/einpraegsam/powermail",
+            "keywords": [
+                "form",
+                "mailform",
+                "spamprevention",
+                "typo3"
+            ],
+            "time": "2017-08-28 14:56:03"
         },
         {
             "name": "mso/idna-convert",

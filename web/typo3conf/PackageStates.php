@@ -17,6 +17,9 @@ return [
         'fluid' => [
             'packagePath' => 'typo3/sysext/fluid/',
         ],
+        'install' => [
+            'packagePath' => 'typo3/sysext/install/',
+        ],
         'frontend' => [
             'packagePath' => 'typo3/sysext/frontend/',
         ],
@@ -62,8 +65,8 @@ return [
         'filemetadata' => [
             'packagePath' => 'typo3/sysext/filemetadata/',
         ],
-        'install' => [
-            'packagePath' => 'typo3/sysext/install/',
+        'form' => [
+            'packagePath' => 'typo3/sysext/form/',
         ],
         'recordlist' => [
             'packagePath' => 'typo3/sysext/recordlist/',
@@ -103,6 +106,9 @@ return [
         ],
         'pazpar2' => [
             'packagePath' => 'typo3conf/ext/pazpar2/',
+        ],
+        'powermail' => [
+            'packagePath' => 'typo3conf/ext/powermail/',
         ],
         'realurl' => [
             'packagePath' => 'typo3conf/ext/realurl/',
