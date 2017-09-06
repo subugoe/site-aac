@@ -1479,12 +1479,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/subugoe/typo3-tmpl_fidaac.git",
-                "reference": "cd3e9ae9338cce470298834d3979cfea759f9595"
+                "reference": "086373e74626775cc9d54cf16a87b79767084ea3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/subugoe/typo3-tmpl_fidaac/zipball/cd3e9ae9338cce470298834d3979cfea759f9595",
-                "reference": "cd3e9ae9338cce470298834d3979cfea759f9595",
+                "url": "https://api.github.com/repos/subugoe/typo3-tmpl_fidaac/zipball/086373e74626775cc9d54cf16a87b79767084ea3",
+                "reference": "086373e74626775cc9d54cf16a87b79767084ea3",
                 "shasum": ""
             },
             "require-dev": {
@@ -1505,7 +1505,7 @@
                 "source": "https://github.com/subugoe/typo3-tmpl_fidaac/tree/develop",
                 "issues": "https://github.com/subugoe/typo3-tmpl_fidaac/issues"
             },
-            "time": "2017-09-06T11:58:49+00:00"
+            "time": "2017-09-06T12:34:16+00:00"
         },
         {
             "name": "swiftmailer/swiftmailer",
@@ -2162,21 +2162,20 @@
         },
         {
             "name": "typo3/cms-cli",
-            "version": "1.0.1",
+            "version": "1.0.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/TYPO3/cms-cli.git",
-                "reference": "713666d40ee56c1a362d1ce7c3f929613fc033b9"
+                "reference": "c27c3580b384353414d0b4ff61137127798f8189"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/TYPO3/cms-cli/zipball/713666d40ee56c1a362d1ce7c3f929613fc033b9",
-                "reference": "713666d40ee56c1a362d1ce7c3f929613fc033b9",
+                "url": "https://api.github.com/repos/TYPO3/cms-cli/zipball/c27c3580b384353414d0b4ff61137127798f8189",
+                "reference": "c27c3580b384353414d0b4ff61137127798f8189",
                 "shasum": ""
             },
             "require": {
-                "php": "^7.0",
-                "typo3/cms-core": "^8.7 || ^9.0@dev"
+                "php": "^7.0"
             },
             "bin": [
                 "typo3"
@@ -2193,7 +2192,7 @@
             ],
             "description": "TYPO3 command line binary",
             "homepage": "https://typo3.org",
-            "time": "2017-07-28T09:15:35+00:00"
+            "time": "2017-09-06T12:09:47+00:00"
         },
         {
             "name": "typo3/cms-composer-installers",
