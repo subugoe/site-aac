@@ -1522,12 +1522,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/subugoe/typo3-tmpl_fidaac.git",
-                "reference": "bed71375e416acad49023102e915eedceb7a6223"
+                "reference": "963caf18204a2fcb593bb580419137b241beb215"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/subugoe/typo3-tmpl_fidaac/zipball/bed71375e416acad49023102e915eedceb7a6223",
-                "reference": "bed71375e416acad49023102e915eedceb7a6223",
+                "url": "https://api.github.com/repos/subugoe/typo3-tmpl_fidaac/zipball/963caf18204a2fcb593bb580419137b241beb215",
+                "reference": "963caf18204a2fcb593bb580419137b241beb215",
                 "shasum": ""
             },
             "require-dev": {
@@ -1539,8 +1539,16 @@
             ],
             "authors": [
                 {
+                    "name": "Sibylle Nägle",
+                    "email": "naegle@sub.uni-goettingen.de"
+                },
+                {
+                    "name": "Joëlle Blache",
+                    "email": "blache@sub.uni-goettingen.de"
+                },
+                {
                     "name": "Ingo Pfennigstorf",
-                    "email": "i.pfennigstorf@gmail.com"
+                    "email": "pfennigstorf@sub.uni-goettingen.de"
                 }
             ],
             "description": "FID AAC Website template",
@@ -1548,7 +1556,7 @@
                 "source": "https://github.com/subugoe/typo3-tmpl_fidaac/tree/develop",
                 "issues": "https://github.com/subugoe/typo3-tmpl_fidaac/issues"
             },
-            "time": "2017-09-07T11:03:16+00:00"
+            "time": "2017-09-07T13:20:25+00:00"
         },
         {
             "name": "swiftmailer/swiftmailer",
