@@ -25,7 +25,8 @@
     "subugoe/nkwgok": "8.x-dev",
     "fluidtypo3/vhs": "^4.3",
     "webdevops/metaseo": "^3.0",
-    "in2code/powermail": "^3.22"
+    "in2code/powermail": "^3.22",
+    "reelworx/rx-shariff": "^10.1"
   },
   "scripts": {
     "typo3-cms-scripts": [

@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "d8a9e9d9182945371cccc81ef1c892f9",
+    "content-hash": "3baf6d4f60c062fef9d720668d11a7d5",
     "packages": [
         {
             "name": "apache-solr-for-typo3/solr",
@@ -1351,6 +1351,49 @@
             "time": "2016-10-10T12:19:37+00:00"
         },
         {
+            "name": "reelworx/rx-shariff",
+            "version": "10.1.0",
+            "source": {
+                "type": "git",
+                "url": "https://bitbucket.org/reelworx/rx_shariff.git",
+                "reference": "fe7dbf79aec776b043da3b05a863ee0327fb83e5"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://bitbucket.org/reelworx/rx_shariff/get/fe7dbf79aec776b043da3b05a863ee0327fb83e5.zip",
+                "reference": "fe7dbf79aec776b043da3b05a863ee0327fb83e5",
+                "shasum": ""
+            },
+            "require": {
+                "php": "5.6.0 - 7.1.99",
+                "typo3/cms-core": "6.2.9 - 8.7.99"
+            },
+            "replace": {
+                "rx_shariff": "self.version",
+                "typo3-ter/rx-shariff": "self.version"
+            },
+            "type": "typo3-cms-extension",
+            "autoload": {
+                "psr-4": {
+                    "Reelworx\\RxShariff\\": "Classes/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "GPL-2.0+"
+            ],
+            "authors": [
+                {
+                    "name": "Reelworx GmbH",
+                    "homepage": "https://reelworx.at/",
+                    "role": "Developer"
+                }
+            ],
+            "description": "Shariff implementation for TYPO3 CMS including the backend module, a viewhelper and a plugin.",
+            "homepage": "https://bitbucket.org/reelworx/rx_shariff",
+            "time": "2017-09-01T19:54:46+00:00"
+        },
+        {
             "name": "subugoe/find",
             "version": "3.1.1",
             "source": {
@@ -1957,16 +2000,16 @@
         },
         {
             "name": "typo3/cms",
-            "version": "v8.7.5",
+            "version": "v8.7.6",
             "source": {
                 "type": "git",
                 "url": "https://github.com/TYPO3/TYPO3.CMS.git",
-                "reference": "9fc9dcfbf56420555669f2bd1364191d6e6fd484"
+                "reference": "33058c371b1cb14638891a8d5e4235fc1af527eb"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/TYPO3/TYPO3.CMS/zipball/9fc9dcfbf56420555669f2bd1364191d6e6fd484",
-                "reference": "9fc9dcfbf56420555669f2bd1364191d6e6fd484",
+                "url": "https://api.github.com/repos/TYPO3/TYPO3.CMS/zipball/33058c371b1cb14638891a8d5e4235fc1af527eb",
+                "reference": "33058c371b1cb14638891a8d5e4235fc1af527eb",
                 "shasum": ""
             },
             "require": {
@@ -1977,7 +2020,7 @@
                 "ext-pcre": "*",
                 "ext-session": "*",
                 "ext-xml": "*",
-                "guzzlehttp/guzzle": "^6.2.1",
+                "guzzlehttp/guzzle": "^6.3.0",
                 "mso/idna-convert": "^1.1.0",
                 "php": "^7.0",
                 "psr/http-message": "~1.0",
@@ -2158,7 +2201,7 @@
                 "extbase",
                 "typo3"
             ],
-            "time": "2017-09-05T10:45:31+00:00"
+            "time": "2017-09-07T06:11:08+00:00"
         },
         {
             "name": "typo3/cms-cli",
