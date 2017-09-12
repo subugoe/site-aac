@@ -1486,16 +1486,16 @@
         },
         {
             "name": "subugoe/pazpar2",
-            "version": "6.0.2",
+            "version": "6.0.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/subugoe/typo3-pazpar2.git",
-                "reference": "29398e6c2a63de7127ea3081add4e0a76b49636f"
+                "reference": "db1eefff7d193b8b5aa0d3b57f503115d46cbddf"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/subugoe/typo3-pazpar2/zipball/29398e6c2a63de7127ea3081add4e0a76b49636f",
-                "reference": "29398e6c2a63de7127ea3081add4e0a76b49636f",
+                "url": "https://api.github.com/repos/subugoe/typo3-pazpar2/zipball/db1eefff7d193b8b5aa0d3b57f503115d46cbddf",
+                "reference": "db1eefff7d193b8b5aa0d3b57f503115d46cbddf",
                 "shasum": ""
             },
             "type": "typo3-cms-extension",
@@ -1515,7 +1515,7 @@
                 }
             ],
             "description": "Pazpar2 for TYPO3",
-            "time": "2017-08-28 10:57:50"
+            "time": "2017-09-12 13:12:49"
         },
         {
             "name": "subugoe/tmpl-fidaac",
