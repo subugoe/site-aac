@@ -65,9 +65,6 @@ return [
         'filemetadata' => [
             'packagePath' => 'typo3/sysext/filemetadata/',
         ],
-        'form' => [
-            'packagePath' => 'typo3/sysext/form/',
-        ],
         'recordlist' => [
             'packagePath' => 'typo3/sysext/recordlist/',
         ],

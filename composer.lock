@@ -716,16 +716,16 @@
         },
         {
             "name": "fluidtypo3/vhs",
-            "version": "4.3.0",
+            "version": "4.3.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/FluidTYPO3/vhs.git",
-                "reference": "6da9f7e786c64f80bfa4e0b989751da7a70e8495"
+                "reference": "8f7c3ca116c8b60598c4b0d809f52c6921158760"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/FluidTYPO3/vhs/zipball/6da9f7e786c64f80bfa4e0b989751da7a70e8495",
-                "reference": "6da9f7e786c64f80bfa4e0b989751da7a70e8495",
+                "url": "https://api.github.com/repos/FluidTYPO3/vhs/zipball/8f7c3ca116c8b60598c4b0d809f52c6921158760",
+                "reference": "8f7c3ca116c8b60598c4b0d809f52c6921158760",
                 "shasum": ""
             },
             "require": {
@@ -768,7 +768,7 @@
                 "utility",
                 "viewhelper"
             ],
-            "time": "2017-08-27T22:52:45+00:00"
+            "time": "2017-09-11T15:19:10+00:00"
         },
         {
             "name": "georgringer/news",
@@ -1019,16 +1019,16 @@
         },
         {
             "name": "helhum/typo3-console",
-            "version": "4.7.0",
+            "version": "4.8.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/TYPO3-Console/TYPO3-Console.git",
-                "reference": "11e6c8426889bbfa710d584ec6ac18c62e0b8ba5"
+                "reference": "a11c6f87f7e95ceea716574ce5280f26ae488649"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/TYPO3-Console/TYPO3-Console/zipball/11e6c8426889bbfa710d584ec6ac18c62e0b8ba5",
-                "reference": "11e6c8426889bbfa710d584ec6ac18c62e0b8ba5",
+                "url": "https://api.github.com/repos/TYPO3-Console/TYPO3-Console/zipball/a11c6f87f7e95ceea716574ce5280f26ae488649",
+                "reference": "a11c6f87f7e95ceea716574ce5280f26ae488649",
                 "shasum": ""
             },
             "require": {
@@ -1102,7 +1102,7 @@
                 "console",
                 "typo3"
             ],
-            "time": "2017-08-14T20:05:25+00:00"
+            "time": "2017-09-11T21:53:27+00:00"
         },
         {
             "name": "helhum/typo3-console-plugin",
@@ -1614,16 +1614,16 @@
         },
         {
             "name": "symfony/console",
-            "version": "v3.3.8",
+            "version": "v3.3.9",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/console.git",
-                "reference": "d6596cb5022b6a0bd940eae54a1de78646a5fda6"
+                "reference": "a1e1b01293a090cb9ae2ddd221a3251a4a7e4abf"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/console/zipball/d6596cb5022b6a0bd940eae54a1de78646a5fda6",
-                "reference": "d6596cb5022b6a0bd940eae54a1de78646a5fda6",
+                "url": "https://api.github.com/repos/symfony/console/zipball/a1e1b01293a090cb9ae2ddd221a3251a4a7e4abf",
+                "reference": "a1e1b01293a090cb9ae2ddd221a3251a4a7e4abf",
                 "shasum": ""
             },
             "require": {
@@ -1678,20 +1678,20 @@
             ],
             "description": "Symfony Console Component",
             "homepage": "https://symfony.com",
-            "time": "2017-08-27T14:52:21+00:00"
+            "time": "2017-09-06T16:40:18+00:00"
         },
         {
             "name": "symfony/debug",
-            "version": "v3.3.8",
+            "version": "v3.3.9",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/debug.git",
-                "reference": "084d804fe35808eb2ef596ec83d85d9768aa6c9d"
+                "reference": "8beb24eec70b345c313640962df933499373a944"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/debug/zipball/084d804fe35808eb2ef596ec83d85d9768aa6c9d",
-                "reference": "084d804fe35808eb2ef596ec83d85d9768aa6c9d",
+                "url": "https://api.github.com/repos/symfony/debug/zipball/8beb24eec70b345c313640962df933499373a944",
+                "reference": "8beb24eec70b345c313640962df933499373a944",
                 "shasum": ""
             },
             "require": {
@@ -1734,11 +1734,11 @@
             ],
             "description": "Symfony Debug Component",
             "homepage": "https://symfony.com",
-            "time": "2017-08-27T14:52:21+00:00"
+            "time": "2017-09-01T13:23:39+00:00"
         },
         {
             "name": "symfony/finder",
-            "version": "v3.3.8",
+            "version": "v3.3.9",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/finder.git",
@@ -1846,7 +1846,7 @@
         },
         {
             "name": "symfony/process",
-            "version": "v3.3.8",
+            "version": "v3.3.9",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/process.git",
@@ -1895,7 +1895,7 @@
         },
         {
             "name": "symfony/yaml",
-            "version": "v3.3.8",
+            "version": "v3.3.9",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/yaml.git",
