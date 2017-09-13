@@ -95,6 +95,9 @@ return [
         'news' => [
             'packagePath' => 'typo3conf/ext/news/',
         ],
+        'ezbrequest' => [
+            'packagePath' => 'typo3conf/ext/ezbrequest/',
+        ],
         'find' => [
             'packagePath' => 'typo3conf/ext/find/',
         ],

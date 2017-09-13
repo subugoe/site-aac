@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "e0cab29c6e21b2bb2570821708347524",
-    "content-hash": "3baf6d4f60c062fef9d720668d11a7d5",
+    "hash": "57f5320bbf98caef27b01077acfd358a",
+    "content-hash": "877636271e207f24e6c3e4ca97a3c807",
     "packages": [
         {
             "name": "apache-solr-for-typo3/solr",
@@ -1395,17 +1395,53 @@
             "time": "2017-09-01 19:54:46"
         },
         {
-            "name": "subugoe/find",
-            "version": "3.1.1",
+            "name": "subugoe/ezbrequest",
+            "version": "3.0.0",
             "source": {
                 "type": "git",
-                "url": "https://github.com/subugoe/typo3-find.git",
-                "reference": "12ba8b06cdd0c0d0dcf4c8cd9072fbe671d8cbd0"
+                "url": "https://github.com/subugoe/typo3-ezbrequest.git",
+                "reference": "104e4c9ddc718eb0b1643d76e4c5e97a34c9df09"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/subugoe/typo3-find/zipball/12ba8b06cdd0c0d0dcf4c8cd9072fbe671d8cbd0",
-                "reference": "12ba8b06cdd0c0d0dcf4c8cd9072fbe671d8cbd0",
+                "url": "https://api.github.com/repos/subugoe/typo3-ezbrequest/zipball/104e4c9ddc718eb0b1643d76e4c5e97a34c9df09",
+                "reference": "104e4c9ddc718eb0b1643d76e4c5e97a34c9df09",
+                "shasum": ""
+            },
+            "type": "typo3-cms-extension",
+            "autoload": {
+                "classmap": [
+                    "pi1/"
+                ],
+                "psr-4": {
+                    "Subugoe\\Ezbrequest\\": "Classes/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "GPL-2.0+"
+            ],
+            "authors": [
+                {
+                    "name": "Ingo Pfennigstorf",
+                    "email": "i.pfennigstorf@gmail.com"
+                }
+            ],
+            "description": "EZBRequest for journals",
+            "time": "2017-05-09 07:51:58"
+        },
+        {
+            "name": "subugoe/find",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/subugoe/typo3-find.git",
+                "reference": "39afa3e84b89a471bc1689d3ba93452cf680950d"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/subugoe/typo3-find/zipball/39afa3e84b89a471bc1689d3ba93452cf680950d",
+                "reference": "39afa3e84b89a471bc1689d3ba93452cf680950d",
                 "shasum": ""
             },
             "require": {
@@ -1449,7 +1485,7 @@
             "keywords": [
                 "TYPO3 CMS"
             ],
-            "time": "2017-01-24 12:15:58"
+            "time": "2017-06-27 11:55:23"
         },
         {
             "name": "subugoe/nkwgok",
@@ -2402,6 +2438,7 @@
     "minimum-stability": "stable",
     "stability-flags": {
         "subugoe/tmpl-fidaac": 20,
+        "subugoe/find": 20,
         "subugoe/nkwgok": 20
     },
     "prefer-stable": false,

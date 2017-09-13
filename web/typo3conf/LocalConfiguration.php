@@ -23,6 +23,7 @@ return [
             'belog' => 'a:0:{}',
             'beuser' => 'a:0:{}',
             'documentation' => 'a:0:{}',
+            'ezbrequest' => 'a:0:{}',
             'filemetadata' => 'a:0:{}',
             'find' => 'a:0:{}',
             'fluid_styled_content' => 'a:0:{}',
