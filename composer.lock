@@ -1492,12 +1492,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/subugoe/typo3-nkwgok.git",
-                "reference": "19881ad6757d3243dd8da024ce0a46de14ef9106"
+                "reference": "9d8e74740f95c405c505b64ac36ef0859d2d0b84"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/subugoe/typo3-nkwgok/zipball/19881ad6757d3243dd8da024ce0a46de14ef9106",
-                "reference": "19881ad6757d3243dd8da024ce0a46de14ef9106",
+                "url": "https://api.github.com/repos/subugoe/typo3-nkwgok/zipball/9d8e74740f95c405c505b64ac36ef0859d2d0b84",
+                "reference": "9d8e74740f95c405c505b64ac36ef0859d2d0b84",
                 "shasum": ""
             },
             "type": "typo3-cms-extension",
@@ -1517,7 +1517,7 @@
                 }
             ],
             "description": "Subject hierarchy for TYPO3",
-            "time": "2017-09-12T12:14:14+00:00"
+            "time": "2017-09-14T08:00:56+00:00"
         },
         {
             "name": "subugoe/pazpar2",
