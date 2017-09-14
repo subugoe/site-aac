@@ -27,12 +27,12 @@
     "webdevops/metaseo": "^3.0",
     "in2code/powermail": "^3.22",
     "reelworx/rx-shariff": "^10.1",
-    "subugoe/ezbrequest": "^3.0"
+    "subugoe/ezbrequest": "^3.0",
+    "solarium/solarium": "^3.8"
   },
   "scripts": {
     "typo3-cms-scripts": [
-      "typo3cms install:fixfolderstructure",
-      "typo3cms cache:flush"
+      "typo3cms install:fixfolderstructure"
     ],
     "post-install-cmd": [
       "@typo3-cms-scripts"
