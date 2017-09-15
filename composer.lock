@@ -4,6 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
+    "hash": "520e76aa3505bf9e231e04e744970acf",
     "content-hash": "8bd4b70ed52f6e3ef6925be3dd1446e7",
     "packages": [
         {
@@ -71,7 +72,7 @@
                 "solr",
                 "typo3"
             ],
-            "time": "2017-08-15T08:08:24+00:00"
+            "time": "2017-08-15 08:08:24"
         },
         {
             "name": "cogpowered/finediff",
@@ -122,7 +123,7 @@
                 "string",
                 "text"
             ],
-            "time": "2014-05-19T10:25:02+00:00"
+            "time": "2014-05-19 10:25:02"
         },
         {
             "name": "dmitryd/typo3-realurl",
@@ -188,7 +189,7 @@
                 "cms",
                 "typo3"
             ],
-            "time": "2017-05-11T00:00:00+00:00"
+            "time": "2017-05-11 00:00:00"
         },
         {
             "name": "doctrine/annotations",
@@ -256,7 +257,7 @@
                 "docblock",
                 "parser"
             ],
-            "time": "2017-02-24T16:22:25+00:00"
+            "time": "2017-02-24 16:22:25"
         },
         {
             "name": "doctrine/cache",
@@ -326,7 +327,7 @@
                 "cache",
                 "caching"
             ],
-            "time": "2017-07-22T12:49:21+00:00"
+            "time": "2017-07-22 12:49:21"
         },
         {
             "name": "doctrine/collections",
@@ -393,7 +394,7 @@
                 "collections",
                 "iterator"
             ],
-            "time": "2017-01-03T10:49:41+00:00"
+            "time": "2017-01-03 10:49:41"
         },
         {
             "name": "doctrine/common",
@@ -466,7 +467,7 @@
                 "persistence",
                 "spl"
             ],
-            "time": "2017-07-22T08:35:12+00:00"
+            "time": "2017-07-22 08:35:12"
         },
         {
             "name": "doctrine/dbal",
@@ -537,7 +538,7 @@
                 "persistence",
                 "queryobject"
             ],
-            "time": "2017-07-22T20:44:48+00:00"
+            "time": "2017-07-22 20:44:48"
         },
         {
             "name": "doctrine/inflector",
@@ -604,7 +605,7 @@
                 "singularize",
                 "string"
             ],
-            "time": "2017-07-22T12:18:28+00:00"
+            "time": "2017-07-22 12:18:28"
         },
         {
             "name": "doctrine/instantiator",
@@ -658,7 +659,7 @@
                 "constructor",
                 "instantiate"
             ],
-            "time": "2015-06-14T21:17:01+00:00"
+            "time": "2015-06-14 21:17:01"
         },
         {
             "name": "doctrine/lexer",
@@ -712,7 +713,7 @@
                 "lexer",
                 "parser"
             ],
-            "time": "2014-09-09T13:34:57+00:00"
+            "time": "2014-09-09 13:34:57"
         },
         {
             "name": "fluidtypo3/vhs",
@@ -768,7 +769,7 @@
                 "utility",
                 "viewhelper"
             ],
-            "time": "2017-09-11T15:19:10+00:00"
+            "time": "2017-09-11 15:19:10"
         },
         {
             "name": "georgringer/news",
@@ -834,7 +835,7 @@
                 "news",
                 "typo3"
             ],
-            "time": "2017-09-06T11:37:35+00:00"
+            "time": "2017-09-06 11:37:35"
         },
         {
             "name": "guzzlehttp/guzzle",
@@ -899,7 +900,7 @@
                 "rest",
                 "web service"
             ],
-            "time": "2017-06-22T18:50:49+00:00"
+            "time": "2017-06-22 18:50:49"
         },
         {
             "name": "guzzlehttp/promises",
@@ -950,7 +951,7 @@
             "keywords": [
                 "promise"
             ],
-            "time": "2016-12-20T10:07:11+00:00"
+            "time": "2016-12-20 10:07:11"
         },
         {
             "name": "guzzlehttp/psr7",
@@ -1015,7 +1016,7 @@
                 "uri",
                 "url"
             ],
-            "time": "2017-03-20T17:10:46+00:00"
+            "time": "2017-03-20 17:10:46"
         },
         {
             "name": "helhum/typo3-console",
@@ -1102,7 +1103,7 @@
                 "console",
                 "typo3"
             ],
-            "time": "2017-09-12T19:38:40+00:00"
+            "time": "2017-09-12 19:38:40"
         },
         {
             "name": "helhum/typo3-console-plugin",
@@ -1155,7 +1156,7 @@
                 "plugin",
                 "typo3 console"
             ],
-            "time": "2017-08-14T13:44:01+00:00"
+            "time": "2017-08-14 13:44:01"
         },
         {
             "name": "in2code/powermail",
@@ -1202,7 +1203,7 @@
                 "spamprevention",
                 "typo3"
             ],
-            "time": "2017-09-06T11:44:30+00:00"
+            "time": "2017-09-06 11:44:30"
         },
         {
             "name": "mso/idna-convert",
@@ -1251,7 +1252,7 @@
                 "idna",
                 "php"
             ],
-            "time": "2016-06-19T18:08:43+00:00"
+            "time": "2016-06-19 18:08:43"
         },
         {
             "name": "psr/http-message",
@@ -1301,7 +1302,7 @@
                 "request",
                 "response"
             ],
-            "time": "2016-08-06T14:39:51+00:00"
+            "time": "2016-08-06 14:39:51"
         },
         {
             "name": "psr/log",
@@ -1348,7 +1349,7 @@
                 "psr",
                 "psr-3"
             ],
-            "time": "2016-10-10T12:19:37+00:00"
+            "time": "2016-10-10 12:19:37"
         },
         {
             "name": "reelworx/rx-shariff",
@@ -1391,7 +1392,7 @@
             ],
             "description": "Shariff implementation for TYPO3 CMS including the backend module, a viewhelper and a plugin.",
             "homepage": "https://bitbucket.org/reelworx/rx_shariff",
-            "time": "2017-09-01T19:54:46+00:00"
+            "time": "2017-09-01 19:54:46"
         },
         {
             "name": "solarium/solarium",
@@ -1449,7 +1450,7 @@
                 "search",
                 "solr"
             ],
-            "time": "2017-02-02T13:32:22+00:00"
+            "time": "2017-02-02 13:32:22"
         },
         {
             "name": "subugoe/ezbrequest",
@@ -1485,7 +1486,7 @@
                 }
             ],
             "description": "EZBRequest for journals",
-            "time": "2017-05-09T07:51:58+00:00"
+            "time": "2017-05-09 07:51:58"
         },
         {
             "name": "subugoe/find",
@@ -1542,7 +1543,7 @@
             "keywords": [
                 "TYPO3 CMS"
             ],
-            "time": "2017-06-27T11:55:23+00:00"
+            "time": "2017-06-27 11:55:23"
         },
         {
             "name": "subugoe/nkwgok",
@@ -1550,12 +1551,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/subugoe/typo3-nkwgok.git",
-                "reference": "bafbe2ffe8bbe8ad878bec2b9413bf659d2a85a7"
+                "reference": "9c78bf68c3f5f7272dbd1560317d80041aca297b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/subugoe/typo3-nkwgok/zipball/bafbe2ffe8bbe8ad878bec2b9413bf659d2a85a7",
-                "reference": "bafbe2ffe8bbe8ad878bec2b9413bf659d2a85a7",
+                "url": "https://api.github.com/repos/subugoe/typo3-nkwgok/zipball/9c78bf68c3f5f7272dbd1560317d80041aca297b",
+                "reference": "9c78bf68c3f5f7272dbd1560317d80041aca297b",
                 "shasum": ""
             },
             "type": "typo3-cms-extension",
@@ -1575,7 +1576,7 @@
                 }
             ],
             "description": "Subject hierarchy for TYPO3",
-            "time": "2017-09-14T11:41:48+00:00"
+            "time": "2017-09-15 10:36:11"
         },
         {
             "name": "subugoe/pazpar2",
@@ -1608,7 +1609,7 @@
                 }
             ],
             "description": "Pazpar2 for TYPO3",
-            "time": "2017-09-12T13:12:49+00:00"
+            "time": "2017-09-12 13:12:49"
         },
         {
             "name": "subugoe/tmpl-fidaac",
@@ -1616,12 +1617,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/subugoe/typo3-tmpl_fidaac.git",
-                "reference": "564157ae0da22152eff914c06d4ac73141660186"
+                "reference": "cf883922b7846d10c3f911eb76c85b7f64162c16"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/subugoe/typo3-tmpl_fidaac/zipball/564157ae0da22152eff914c06d4ac73141660186",
-                "reference": "564157ae0da22152eff914c06d4ac73141660186",
+                "url": "https://api.github.com/repos/subugoe/typo3-tmpl_fidaac/zipball/cf883922b7846d10c3f911eb76c85b7f64162c16",
+                "reference": "cf883922b7846d10c3f911eb76c85b7f64162c16",
                 "shasum": ""
             },
             "require-dev": {
@@ -1650,7 +1651,7 @@
                 "source": "https://github.com/subugoe/typo3-tmpl_fidaac/tree/develop",
                 "issues": "https://github.com/subugoe/typo3-tmpl_fidaac/issues"
             },
-            "time": "2017-09-15T07:12:02+00:00"
+            "time": "2017-09-15 09:21:55"
         },
         {
             "name": "swiftmailer/swiftmailer",
@@ -1704,7 +1705,7 @@
                 "mail",
                 "mailer"
             ],
-            "time": "2017-05-01T15:54:03+00:00"
+            "time": "2017-05-01 15:54:03"
         },
         {
             "name": "symfony/console",
@@ -1772,7 +1773,7 @@
             ],
             "description": "Symfony Console Component",
             "homepage": "https://symfony.com",
-            "time": "2017-09-06T16:40:18+00:00"
+            "time": "2017-09-06 16:40:18"
         },
         {
             "name": "symfony/debug",
@@ -1828,7 +1829,7 @@
             ],
             "description": "Symfony Debug Component",
             "homepage": "https://symfony.com",
-            "time": "2017-09-01T13:23:39+00:00"
+            "time": "2017-09-01 13:23:39"
         },
         {
             "name": "symfony/event-dispatcher",
@@ -1891,7 +1892,7 @@
             ],
             "description": "Symfony EventDispatcher Component",
             "homepage": "https://symfony.com",
-            "time": "2017-07-29T21:54:42+00:00"
+            "time": "2017-07-29 21:54:42"
         },
         {
             "name": "symfony/finder",
@@ -1940,7 +1941,7 @@
             ],
             "description": "Symfony Finder Component",
             "homepage": "https://symfony.com",
-            "time": "2017-07-29T21:54:42+00:00"
+            "time": "2017-07-29 21:54:42"
         },
         {
             "name": "symfony/polyfill-mbstring",
@@ -1999,7 +2000,7 @@
                 "portable",
                 "shim"
             ],
-            "time": "2017-06-14T15:44:48+00:00"
+            "time": "2017-06-14 15:44:48"
         },
         {
             "name": "symfony/process",
@@ -2048,7 +2049,7 @@
             ],
             "description": "Symfony Process Component",
             "homepage": "https://symfony.com",
-            "time": "2017-07-29T21:54:42+00:00"
+            "time": "2017-07-29 21:54:42"
         },
         {
             "name": "symfony/yaml",
@@ -2103,7 +2104,7 @@
             ],
             "description": "Symfony Yaml Component",
             "homepage": "https://symfony.com",
-            "time": "2017-07-29T21:54:42+00:00"
+            "time": "2017-07-29 21:54:42"
         },
         {
             "name": "typo3/class-alias-loader",
@@ -2161,7 +2162,7 @@
                 "classloader",
                 "composer"
             ],
-            "time": "2015-10-06T10:25:44+00:00"
+            "time": "2015-10-06 10:25:44"
         },
         {
             "name": "typo3/cms",
@@ -2366,7 +2367,7 @@
                 "extbase",
                 "typo3"
             ],
-            "time": "2017-09-07T06:11:08+00:00"
+            "time": "2017-09-07 06:11:08"
         },
         {
             "name": "typo3/cms-cli",
@@ -2400,7 +2401,7 @@
             ],
             "description": "TYPO3 command line binary",
             "homepage": "https://typo3.org",
-            "time": "2017-09-06T12:09:47+00:00"
+            "time": "2017-09-06 12:09:47"
         },
         {
             "name": "typo3/cms-composer-installers",
@@ -2469,7 +2470,7 @@
                 "installer",
                 "typo3"
             ],
-            "time": "2017-08-01T16:14:32+00:00"
+            "time": "2017-08-01 16:14:32"
         },
         {
             "name": "typo3fluid/fluid",
@@ -2508,7 +2509,7 @@
                 "LGPL-3.0"
             ],
             "description": "The TYPO3 Fluid template rendering engine",
-            "time": "2017-08-25T10:10:42+00:00"
+            "time": "2017-08-25 10:10:42"
         },
         {
             "name": "webdevops/metaseo",
@@ -2550,7 +2551,7 @@
                 "issues": "https://github.com/mblaschke/TYPO3-metaseo/issues",
                 "source": "https://github.com/mblaschke/TYPO3-metaseo/tree/3.0.0"
             },
-            "time": "2017-06-11T16:53:35+00:00"
+            "time": "2017-06-11 16:53:35"
         }
     ],
     "packages-dev": [],
