@@ -716,16 +716,16 @@
         },
         {
             "name": "fluidtypo3/vhs",
-            "version": "4.3.1",
+            "version": "4.3.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/FluidTYPO3/vhs.git",
-                "reference": "8f7c3ca116c8b60598c4b0d809f52c6921158760"
+                "reference": "a516c9d82fde9fd437d46cdddfb5ae24db7a3dca"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/FluidTYPO3/vhs/zipball/8f7c3ca116c8b60598c4b0d809f52c6921158760",
-                "reference": "8f7c3ca116c8b60598c4b0d809f52c6921158760",
+                "url": "https://api.github.com/repos/FluidTYPO3/vhs/zipball/a516c9d82fde9fd437d46cdddfb5ae24db7a3dca",
+                "reference": "a516c9d82fde9fd437d46cdddfb5ae24db7a3dca",
                 "shasum": ""
             },
             "require": {
@@ -768,7 +768,7 @@
                 "utility",
                 "viewhelper"
             ],
-            "time": "2017-09-11T15:19:10+00:00"
+            "time": "2017-09-19T14:06:56+00:00"
         },
         {
             "name": "georgringer/news",
@@ -1616,12 +1616,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/subugoe/typo3-tmpl_fidaac.git",
-                "reference": "7435cf72fa21eb9ea61cd37e32d3ec5ed497d003"
+                "reference": "0b23c5e8c0c3b17096c121add5be9fe5123c012a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/subugoe/typo3-tmpl_fidaac/zipball/7435cf72fa21eb9ea61cd37e32d3ec5ed497d003",
-                "reference": "7435cf72fa21eb9ea61cd37e32d3ec5ed497d003",
+                "url": "https://api.github.com/repos/subugoe/typo3-tmpl_fidaac/zipball/0b23c5e8c0c3b17096c121add5be9fe5123c012a",
+                "reference": "0b23c5e8c0c3b17096c121add5be9fe5123c012a",
                 "shasum": ""
             },
             "require-dev": {
@@ -1650,7 +1650,7 @@
                 "source": "https://github.com/subugoe/typo3-tmpl_fidaac/tree/develop",
                 "issues": "https://github.com/subugoe/typo3-tmpl_fidaac/issues"
             },
-            "time": "2017-09-18T13:15:42+00:00"
+            "time": "2017-09-18T17:44:49+00:00"
         },
         {
             "name": "swiftmailer/swiftmailer",
@@ -2165,16 +2165,16 @@
         },
         {
             "name": "typo3/cms",
-            "version": "v8.7.6",
+            "version": "v8.7.7",
             "source": {
                 "type": "git",
                 "url": "https://github.com/TYPO3/TYPO3.CMS.git",
-                "reference": "33058c371b1cb14638891a8d5e4235fc1af527eb"
+                "reference": "78b3b5611c555974c644fdf7c157fb313f20308e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/TYPO3/TYPO3.CMS/zipball/33058c371b1cb14638891a8d5e4235fc1af527eb",
-                "reference": "33058c371b1cb14638891a8d5e4235fc1af527eb",
+                "url": "https://api.github.com/repos/TYPO3/TYPO3.CMS/zipball/78b3b5611c555974c644fdf7c157fb313f20308e",
+                "reference": "78b3b5611c555974c644fdf7c157fb313f20308e",
                 "shasum": ""
             },
             "require": {
@@ -2196,7 +2196,7 @@
                 "symfony/polyfill-mbstring": "^1.2",
                 "symfony/yaml": "^2.7 || ^3.0",
                 "typo3/class-alias-loader": "^1.0",
-                "typo3/cms-cli": "^1.0",
+                "typo3/cms-cli": "^1.0.2",
                 "typo3/cms-composer-installers": "^1.2.8",
                 "typo3fluid/fluid": "^2.3"
             },
@@ -2266,7 +2266,6 @@
                 "ext-gd": "GDlib/Freetype is required for building images with text (GIFBUILDER) and can also be used to scale images",
                 "ext-mysqli": "",
                 "ext-openssl": "",
-                "ext-soap": "",
                 "ext-zip": "",
                 "ext-zlib": "TYPO3 uses zlib for amongst others output compression and un/packing t3x extension files"
             },
@@ -2366,7 +2365,7 @@
                 "extbase",
                 "typo3"
             ],
-            "time": "2017-09-07T06:11:08+00:00"
+            "time": "2017-09-19T14:22:53+00:00"
         },
         {
             "name": "typo3/cms-cli",
