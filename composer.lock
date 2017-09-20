@@ -1019,16 +1019,16 @@
         },
         {
             "name": "helhum/typo3-console",
-            "version": "4.8.3",
+            "version": "4.9.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/TYPO3-Console/TYPO3-Console.git",
-                "reference": "70bd5f81caff9728bd88cc0a6dda187b35612628"
+                "reference": "b24bdfbd5d2d1dbc84f24d87cbaabc56aaeeba8b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/TYPO3-Console/TYPO3-Console/zipball/70bd5f81caff9728bd88cc0a6dda187b35612628",
-                "reference": "70bd5f81caff9728bd88cc0a6dda187b35612628",
+                "url": "https://api.github.com/repos/TYPO3-Console/TYPO3-Console/zipball/b24bdfbd5d2d1dbc84f24d87cbaabc56aaeeba8b",
+                "reference": "b24bdfbd5d2d1dbc84f24d87cbaabc56aaeeba8b",
                 "shasum": ""
             },
             "require": {
@@ -1102,7 +1102,7 @@
                 "console",
                 "typo3"
             ],
-            "time": "2017-09-12T19:38:40+00:00"
+            "time": "2017-09-20T18:41:57+00:00"
         },
         {
             "name": "helhum/typo3-console-plugin",
@@ -1616,12 +1616,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/subugoe/typo3-tmpl_fidaac.git",
-                "reference": "0b23c5e8c0c3b17096c121add5be9fe5123c012a"
+                "reference": "46d9f365e53801653b2ae3dc1cb1c2fee33a2a57"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/subugoe/typo3-tmpl_fidaac/zipball/0b23c5e8c0c3b17096c121add5be9fe5123c012a",
-                "reference": "0b23c5e8c0c3b17096c121add5be9fe5123c012a",
+                "url": "https://api.github.com/repos/subugoe/typo3-tmpl_fidaac/zipball/46d9f365e53801653b2ae3dc1cb1c2fee33a2a57",
+                "reference": "46d9f365e53801653b2ae3dc1cb1c2fee33a2a57",
                 "shasum": ""
             },
             "require-dev": {
@@ -1650,7 +1650,7 @@
                 "source": "https://github.com/subugoe/typo3-tmpl_fidaac/tree/develop",
                 "issues": "https://github.com/subugoe/typo3-tmpl_fidaac/issues"
             },
-            "time": "2017-09-18T17:44:49+00:00"
+            "time": "2017-09-20T09:40:45+00:00"
         },
         {
             "name": "swiftmailer/swiftmailer",
