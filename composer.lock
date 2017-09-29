@@ -8,16 +8,16 @@
     "packages": [
         {
             "name": "apache-solr-for-typo3/solr",
-            "version": "7.0.1",
+            "version": "7.0.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/TYPO3-Solr/ext-solr.git",
-                "reference": "de84bf48b150e55b1ff5fa3ef081d9e9c9e205bb"
+                "reference": "d4b4d0d5336d0f58f0429838f82198c38634124a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/TYPO3-Solr/ext-solr/zipball/de84bf48b150e55b1ff5fa3ef081d9e9c9e205bb",
-                "reference": "de84bf48b150e55b1ff5fa3ef081d9e9c9e205bb",
+                "url": "https://api.github.com/repos/TYPO3-Solr/ext-solr/zipball/d4b4d0d5336d0f58f0429838f82198c38634124a",
+                "reference": "d4b4d0d5336d0f58f0429838f82198c38634124a",
                 "shasum": ""
             },
             "require": {
@@ -71,7 +71,7 @@
                 "solr",
                 "typo3"
             ],
-            "time": "2017-08-15T08:08:24+00:00"
+            "time": "2017-09-18T11:20:09+00:00"
         },
         {
             "name": "cogpowered/finediff",
@@ -716,16 +716,16 @@
         },
         {
             "name": "fluidtypo3/vhs",
-            "version": "4.3.1",
+            "version": "4.3.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/FluidTYPO3/vhs.git",
-                "reference": "8f7c3ca116c8b60598c4b0d809f52c6921158760"
+                "reference": "a516c9d82fde9fd437d46cdddfb5ae24db7a3dca"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/FluidTYPO3/vhs/zipball/8f7c3ca116c8b60598c4b0d809f52c6921158760",
-                "reference": "8f7c3ca116c8b60598c4b0d809f52c6921158760",
+                "url": "https://api.github.com/repos/FluidTYPO3/vhs/zipball/a516c9d82fde9fd437d46cdddfb5ae24db7a3dca",
+                "reference": "a516c9d82fde9fd437d46cdddfb5ae24db7a3dca",
                 "shasum": ""
             },
             "require": {
@@ -768,7 +768,7 @@
                 "utility",
                 "viewhelper"
             ],
-            "time": "2017-09-11T15:19:10+00:00"
+            "time": "2017-09-19T14:06:56+00:00"
         },
         {
             "name": "georgringer/news",
@@ -1019,16 +1019,16 @@
         },
         {
             "name": "helhum/typo3-console",
-            "version": "4.8.3",
+            "version": "4.9.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/TYPO3-Console/TYPO3-Console.git",
-                "reference": "70bd5f81caff9728bd88cc0a6dda187b35612628"
+                "reference": "b24bdfbd5d2d1dbc84f24d87cbaabc56aaeeba8b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/TYPO3-Console/TYPO3-Console/zipball/70bd5f81caff9728bd88cc0a6dda187b35612628",
-                "reference": "70bd5f81caff9728bd88cc0a6dda187b35612628",
+                "url": "https://api.github.com/repos/TYPO3-Console/TYPO3-Console/zipball/b24bdfbd5d2d1dbc84f24d87cbaabc56aaeeba8b",
+                "reference": "b24bdfbd5d2d1dbc84f24d87cbaabc56aaeeba8b",
                 "shasum": ""
             },
             "require": {
@@ -1102,7 +1102,7 @@
                 "console",
                 "typo3"
             ],
-            "time": "2017-09-12T19:38:40+00:00"
+            "time": "2017-09-20T18:41:57+00:00"
         },
         {
             "name": "helhum/typo3-console-plugin",
@@ -1550,12 +1550,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/subugoe/typo3-nkwgok.git",
-                "reference": "bafbe2ffe8bbe8ad878bec2b9413bf659d2a85a7"
+                "reference": "9c78bf68c3f5f7272dbd1560317d80041aca297b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/subugoe/typo3-nkwgok/zipball/bafbe2ffe8bbe8ad878bec2b9413bf659d2a85a7",
-                "reference": "bafbe2ffe8bbe8ad878bec2b9413bf659d2a85a7",
+                "url": "https://api.github.com/repos/subugoe/typo3-nkwgok/zipball/9c78bf68c3f5f7272dbd1560317d80041aca297b",
+                "reference": "9c78bf68c3f5f7272dbd1560317d80041aca297b",
                 "shasum": ""
             },
             "type": "typo3-cms-extension",
@@ -1575,7 +1575,7 @@
                 }
             ],
             "description": "Subject hierarchy for TYPO3",
-            "time": "2017-09-14T11:41:48+00:00"
+            "time": "2017-09-15T10:36:11+00:00"
         },
         {
             "name": "subugoe/pazpar2",
@@ -1616,12 +1616,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/subugoe/typo3-tmpl_fidaac.git",
-                "reference": "c35e49dec3a47310badfa4e5d4a57f13c0525712"
+                "reference": "f1266d7280ab4d84709e273a136d626d8c15edda"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/subugoe/typo3-tmpl_fidaac/zipball/c35e49dec3a47310badfa4e5d4a57f13c0525712",
-                "reference": "c35e49dec3a47310badfa4e5d4a57f13c0525712",
+                "url": "https://api.github.com/repos/subugoe/typo3-tmpl_fidaac/zipball/f1266d7280ab4d84709e273a136d626d8c15edda",
+                "reference": "f1266d7280ab4d84709e273a136d626d8c15edda",
                 "shasum": ""
             },
             "require-dev": {
@@ -1650,7 +1650,7 @@
                 "source": "https://github.com/subugoe/typo3-tmpl_fidaac/tree/develop",
                 "issues": "https://github.com/subugoe/typo3-tmpl_fidaac/issues"
             },
-            "time": "2017-09-14T13:15:58+00:00"
+            "time": "2017-09-29T06:44:06+00:00"
         },
         {
             "name": "swiftmailer/swiftmailer",
@@ -2165,16 +2165,16 @@
         },
         {
             "name": "typo3/cms",
-            "version": "v8.7.6",
+            "version": "v8.7.7",
             "source": {
                 "type": "git",
                 "url": "https://github.com/TYPO3/TYPO3.CMS.git",
-                "reference": "33058c371b1cb14638891a8d5e4235fc1af527eb"
+                "reference": "78b3b5611c555974c644fdf7c157fb313f20308e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/TYPO3/TYPO3.CMS/zipball/33058c371b1cb14638891a8d5e4235fc1af527eb",
-                "reference": "33058c371b1cb14638891a8d5e4235fc1af527eb",
+                "url": "https://api.github.com/repos/TYPO3/TYPO3.CMS/zipball/78b3b5611c555974c644fdf7c157fb313f20308e",
+                "reference": "78b3b5611c555974c644fdf7c157fb313f20308e",
                 "shasum": ""
             },
             "require": {
@@ -2196,7 +2196,7 @@
                 "symfony/polyfill-mbstring": "^1.2",
                 "symfony/yaml": "^2.7 || ^3.0",
                 "typo3/class-alias-loader": "^1.0",
-                "typo3/cms-cli": "^1.0",
+                "typo3/cms-cli": "^1.0.2",
                 "typo3/cms-composer-installers": "^1.2.8",
                 "typo3fluid/fluid": "^2.3"
             },
@@ -2266,7 +2266,6 @@
                 "ext-gd": "GDlib/Freetype is required for building images with text (GIFBUILDER) and can also be used to scale images",
                 "ext-mysqli": "",
                 "ext-openssl": "",
-                "ext-soap": "",
                 "ext-zip": "",
                 "ext-zlib": "TYPO3 uses zlib for amongst others output compression and un/packing t3x extension files"
             },
@@ -2366,7 +2365,7 @@
                 "extbase",
                 "typo3"
             ],
-            "time": "2017-09-07T06:11:08+00:00"
+            "time": "2017-09-19T14:22:53+00:00"
         },
         {
             "name": "typo3/cms-cli",

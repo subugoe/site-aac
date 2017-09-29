@@ -38,6 +38,12 @@ return [
         'lang' => [
             'packagePath' => 'typo3/sysext/lang/',
         ],
+        'setup' => [
+            'packagePath' => 'typo3/sysext/setup/',
+        ],
+        'rte_ckeditor' => [
+            'packagePath' => 'typo3/sysext/rte_ckeditor/',
+        ],
         'version' => [
             'packagePath' => 'typo3/sysext/version/',
         ],
@@ -65,14 +71,17 @@ return [
         'filemetadata' => [
             'packagePath' => 'typo3/sysext/filemetadata/',
         ],
+        'lowlevel' => [
+            'packagePath' => 'typo3/sysext/lowlevel/',
+        ],
         'recordlist' => [
             'packagePath' => 'typo3/sysext/recordlist/',
         ],
         'recycler' => [
             'packagePath' => 'typo3/sysext/recycler/',
         ],
-        'rte_ckeditor' => [
-            'packagePath' => 'typo3/sysext/rte_ckeditor/',
+        'reports' => [
+            'packagePath' => 'typo3/sysext/reports/',
         ],
         'saltedpasswords' => [
             'packagePath' => 'typo3/sysext/saltedpasswords/',
