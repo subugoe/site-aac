@@ -126,19 +126,20 @@
         },
         {
             "name": "dmitryd/typo3-realurl",
-            "version": "2.2.1",
+            "version": "2.3.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/dmitryd/typo3-realurl.git",
-                "reference": "ce1fe49770c7cd86b101fa7f09dc304e4255d59e"
+                "reference": "dbafbbae049f1dfa66c4510970a938f191fd10c1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/dmitryd/typo3-realurl/zipball/ce1fe49770c7cd86b101fa7f09dc304e4255d59e",
-                "reference": "ce1fe49770c7cd86b101fa7f09dc304e4255d59e",
+                "url": "https://api.github.com/repos/dmitryd/typo3-realurl/zipball/dbafbbae049f1dfa66c4510970a938f191fd10c1",
+                "reference": "dbafbbae049f1dfa66c4510970a938f191fd10c1",
                 "shasum": ""
             },
             "require": {
+                "ext-mbstring": "*",
                 "php": ">=5.4.0",
                 "typo3/cms-core": ">=6.2.0,<8.7.999"
             },
@@ -188,7 +189,7 @@
                 "cms",
                 "typo3"
             ],
-            "time": "2017-05-11T00:00:00+00:00"
+            "time": "2017-10-05T00:00:00+00:00"
         },
         {
             "name": "doctrine/annotations",
@@ -1616,12 +1617,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/subugoe/typo3-tmpl_fidaac.git",
-                "reference": "15f15d1db1bc60a1f8906349ba2ec6c62e62faf3"
+                "reference": "96db0197faa734f2179118ecf825836a0fcff24b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/subugoe/typo3-tmpl_fidaac/zipball/15f15d1db1bc60a1f8906349ba2ec6c62e62faf3",
-                "reference": "15f15d1db1bc60a1f8906349ba2ec6c62e62faf3",
+                "url": "https://api.github.com/repos/subugoe/typo3-tmpl_fidaac/zipball/96db0197faa734f2179118ecf825836a0fcff24b",
+                "reference": "96db0197faa734f2179118ecf825836a0fcff24b",
                 "shasum": ""
             },
             "require-dev": {
@@ -1650,7 +1651,7 @@
                 "source": "https://github.com/subugoe/typo3-tmpl_fidaac/tree/develop",
                 "issues": "https://github.com/subugoe/typo3-tmpl_fidaac/issues"
             },
-            "time": "2017-10-05T08:03:35+00:00"
+            "time": "2017-10-05T11:40:54+00:00"
         },
         {
             "name": "swiftmailer/swiftmailer",
