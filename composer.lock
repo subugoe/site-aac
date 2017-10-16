@@ -1550,12 +1550,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/subugoe/typo3-nkwgok.git",
-                "reference": "9c78bf68c3f5f7272dbd1560317d80041aca297b"
+                "reference": "dcd26225fa097f19ddd8bb3f6fe96acc4bd22c38"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/subugoe/typo3-nkwgok/zipball/9c78bf68c3f5f7272dbd1560317d80041aca297b",
-                "reference": "9c78bf68c3f5f7272dbd1560317d80041aca297b",
+                "url": "https://api.github.com/repos/subugoe/typo3-nkwgok/zipball/dcd26225fa097f19ddd8bb3f6fe96acc4bd22c38",
+                "reference": "dcd26225fa097f19ddd8bb3f6fe96acc4bd22c38",
                 "shasum": ""
             },
             "type": "typo3-cms-extension",
@@ -1575,7 +1575,7 @@
                 }
             ],
             "description": "Subject hierarchy for TYPO3",
-            "time": "2017-09-15T10:36:11+00:00"
+            "time": "2017-10-16T08:18:38+00:00"
         },
         {
             "name": "subugoe/pazpar2",
@@ -1616,12 +1616,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/subugoe/typo3-tmpl_fidaac.git",
-                "reference": "f622ee14a6639ef6d94388e234226f4cf77f0868"
+                "reference": "b7db605dcfa8a437fb818a881455ced29bb918bb"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/subugoe/typo3-tmpl_fidaac/zipball/f622ee14a6639ef6d94388e234226f4cf77f0868",
-                "reference": "f622ee14a6639ef6d94388e234226f4cf77f0868",
+                "url": "https://api.github.com/repos/subugoe/typo3-tmpl_fidaac/zipball/b7db605dcfa8a437fb818a881455ced29bb918bb",
+                "reference": "b7db605dcfa8a437fb818a881455ced29bb918bb",
                 "shasum": ""
             },
             "require-dev": {
@@ -1650,7 +1650,7 @@
                 "source": "https://github.com/subugoe/typo3-tmpl_fidaac/tree/develop",
                 "issues": "https://github.com/subugoe/typo3-tmpl_fidaac/issues"
             },
-            "time": "2017-10-13T08:59:57+00:00"
+            "time": "2017-10-16T11:03:40+00:00"
         },
         {
             "name": "swiftmailer/swiftmailer",

@@ -1,6 +1,7 @@
 <?php
 return [
     'BE' => [
+        'compressionLevel' => '5',
         'debug' => true,
         'explicitADmode' => 'explicitAllow',
         'loginSecurityLevel' => 'normal',
@@ -60,6 +61,7 @@ return [
         ],
     ],
     'FE' => [
+        'compressionLevel' => 0,
         'debug' => true,
         'loginSecurityLevel' => 'rsa',
         'pageNotFoundOnCHashError' => false,
