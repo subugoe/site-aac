@@ -267,6 +267,9 @@ AddDefaultCharset utf-8
 	RewriteCond $0#%{REQUEST_URI} ([^#]*)#(.*)\1$
 	RewriteRule ^.*$ - [E=CWD:%2]
 
+# Opac To Atom Script
+RewriteRule opac.atom ./typo3conf/ext/tmpl_fidaac/Resources/Public/Scripts/Pazpar2Atom/opac-feed2.php [L]
+
 	# Rules to set ApplicationContext based on hostname
 	#RewriteCond %{HTTP_HOST} ^dev\.example\.com$
 	#RewriteRule .? - [E=TYPO3_CONTEXT:Development]
