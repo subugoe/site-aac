@@ -1453,16 +1453,16 @@
         },
         {
             "name": "subugoe/ezbrequest",
-            "version": "3.0.0",
+            "version": "3.1.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/subugoe/typo3-ezbrequest.git",
-                "reference": "104e4c9ddc718eb0b1643d76e4c5e97a34c9df09"
+                "reference": "4faabb8ba93ad2dea0df130d8831f4648e8c2556"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/subugoe/typo3-ezbrequest/zipball/104e4c9ddc718eb0b1643d76e4c5e97a34c9df09",
-                "reference": "104e4c9ddc718eb0b1643d76e4c5e97a34c9df09",
+                "url": "https://api.github.com/repos/subugoe/typo3-ezbrequest/zipball/4faabb8ba93ad2dea0df130d8831f4648e8c2556",
+                "reference": "4faabb8ba93ad2dea0df130d8831f4648e8c2556",
                 "shasum": ""
             },
             "type": "typo3-cms-extension",
@@ -1485,7 +1485,7 @@
                 }
             ],
             "description": "EZBRequest for journals",
-            "time": "2017-05-09T07:51:58+00:00"
+            "time": "2017-10-18T11:01:38+00:00"
         },
         {
             "name": "subugoe/find",
@@ -1550,12 +1550,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/subugoe/typo3-nkwgok.git",
-                "reference": "dcd26225fa097f19ddd8bb3f6fe96acc4bd22c38"
+                "reference": "a32039840da612e227beef21d471533a9513ee30"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/subugoe/typo3-nkwgok/zipball/dcd26225fa097f19ddd8bb3f6fe96acc4bd22c38",
-                "reference": "dcd26225fa097f19ddd8bb3f6fe96acc4bd22c38",
+                "url": "https://api.github.com/repos/subugoe/typo3-nkwgok/zipball/a32039840da612e227beef21d471533a9513ee30",
+                "reference": "a32039840da612e227beef21d471533a9513ee30",
                 "shasum": ""
             },
             "type": "typo3-cms-extension",
@@ -1575,7 +1575,7 @@
                 }
             ],
             "description": "Subject hierarchy for TYPO3",
-            "time": "2017-10-16T08:18:38+00:00"
+            "time": "2017-10-18T12:24:13+00:00"
         },
         {
             "name": "subugoe/pazpar2",
