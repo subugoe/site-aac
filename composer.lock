@@ -717,16 +717,16 @@
         },
         {
             "name": "fluidtypo3/vhs",
-            "version": "4.3.2",
+            "version": "4.3.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/FluidTYPO3/vhs.git",
-                "reference": "a516c9d82fde9fd437d46cdddfb5ae24db7a3dca"
+                "reference": "101b8a504fe13d61ff0501012bd833f94a3b69af"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/FluidTYPO3/vhs/zipball/a516c9d82fde9fd437d46cdddfb5ae24db7a3dca",
-                "reference": "a516c9d82fde9fd437d46cdddfb5ae24db7a3dca",
+                "url": "https://api.github.com/repos/FluidTYPO3/vhs/zipball/101b8a504fe13d61ff0501012bd833f94a3b69af",
+                "reference": "101b8a504fe13d61ff0501012bd833f94a3b69af",
                 "shasum": ""
             },
             "require": {
@@ -769,7 +769,7 @@
                 "utility",
                 "viewhelper"
             ],
-            "time": "2017-09-19T14:06:56+00:00"
+            "time": "2017-10-26T22:21:12+00:00"
         },
         {
             "name": "georgringer/news",
@@ -1352,16 +1352,16 @@
         },
         {
             "name": "reelworx/rx-shariff",
-            "version": "10.1.0",
+            "version": "10.2.0",
             "source": {
                 "type": "git",
                 "url": "https://bitbucket.org/reelworx/rx_shariff.git",
-                "reference": "fe7dbf79aec776b043da3b05a863ee0327fb83e5"
+                "reference": "378333ba0f0e52a830d6004d8f91396353316a35"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://bitbucket.org/reelworx/rx_shariff/get/fe7dbf79aec776b043da3b05a863ee0327fb83e5.zip",
-                "reference": "fe7dbf79aec776b043da3b05a863ee0327fb83e5",
+                "url": "https://bitbucket.org/reelworx/rx_shariff/get/378333ba0f0e52a830d6004d8f91396353316a35.zip",
+                "reference": "378333ba0f0e52a830d6004d8f91396353316a35",
                 "shasum": ""
             },
             "require": {
@@ -1391,7 +1391,7 @@
             ],
             "description": "Shariff implementation for TYPO3 CMS including the backend module, a viewhelper and a plugin.",
             "homepage": "https://bitbucket.org/reelworx/rx_shariff",
-            "time": "2017-09-01T19:54:46+00:00"
+            "time": "2017-10-25T15:28:44+00:00"
         },
         {
             "name": "solarium/solarium",
@@ -1616,12 +1616,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/subugoe/typo3-tmpl_fidaac.git",
-                "reference": "81fd5f0862655b82916e33788292523f7dc26da5"
+                "reference": "ce297bb3efd7241daa0b381ef26a70f0d47b5c8b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/subugoe/typo3-tmpl_fidaac/zipball/81fd5f0862655b82916e33788292523f7dc26da5",
-                "reference": "81fd5f0862655b82916e33788292523f7dc26da5",
+                "url": "https://api.github.com/repos/subugoe/typo3-tmpl_fidaac/zipball/ce297bb3efd7241daa0b381ef26a70f0d47b5c8b",
+                "reference": "ce297bb3efd7241daa0b381ef26a70f0d47b5c8b",
                 "shasum": ""
             },
             "require-dev": {
@@ -1650,7 +1650,7 @@
                 "source": "https://github.com/subugoe/typo3-tmpl_fidaac/tree/develop",
                 "issues": "https://github.com/subugoe/typo3-tmpl_fidaac/issues"
             },
-            "time": "2017-10-25T13:31:47+00:00"
+            "time": "2017-11-02T08:54:47+00:00"
         },
         {
             "name": "swiftmailer/swiftmailer",
