@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "8bd4b70ed52f6e3ef6925be3dd1446e7",
+    "content-hash": "370047f88347dd983d3cdf18522e9b7d",
     "packages": [
         {
             "name": "apache-solr-for-typo3/solr",
@@ -1546,16 +1546,16 @@
         },
         {
             "name": "subugoe/nkwgok",
-            "version": "8.x-dev",
+            "version": "5.1.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/subugoe/typo3-nkwgok.git",
-                "reference": "35632b2ae0d521a9939ffe44caf7148c783490f2"
+                "reference": "39d22c7f3675522a9bb05f849cae69e71cb62451"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/subugoe/typo3-nkwgok/zipball/35632b2ae0d521a9939ffe44caf7148c783490f2",
-                "reference": "35632b2ae0d521a9939ffe44caf7148c783490f2",
+                "url": "https://api.github.com/repos/subugoe/typo3-nkwgok/zipball/39d22c7f3675522a9bb05f849cae69e71cb62451",
+                "reference": "39d22c7f3675522a9bb05f849cae69e71cb62451",
                 "shasum": ""
             },
             "type": "typo3-cms-extension",
@@ -1575,7 +1575,7 @@
                 }
             ],
             "description": "Subject hierarchy for TYPO3",
-            "time": "2017-11-02T10:56:41+00:00"
+            "time": "2017-11-22T13:05:24+00:00"
         },
         {
             "name": "subugoe/pazpar2",
@@ -2555,8 +2555,7 @@
     "minimum-stability": "stable",
     "stability-flags": {
         "subugoe/tmpl-fidaac": 20,
-        "subugoe/find": 20,
-        "subugoe/nkwgok": 20
+        "subugoe/find": 20
     },
     "prefer-stable": false,
     "prefer-lowest": false,

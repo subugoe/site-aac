@@ -22,7 +22,7 @@
     "dmitryd/typo3-realurl": "^2.2",
     "subugoe/find": "dev-master",
     "apache-solr-for-typo3/solr": "^7.0",
-    "subugoe/nkwgok": "8.x-dev",
+    "subugoe/nkwgok": "^5.1",
     "fluidtypo3/vhs": "^4.3",
     "webdevops/metaseo": "^3.0",
     "in2code/powermail": "^3.22",
