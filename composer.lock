@@ -1352,16 +1352,16 @@
         },
         {
             "name": "reelworx/rx-shariff",
-            "version": "10.2.0",
+            "version": "10.2.1",
             "source": {
                 "type": "git",
                 "url": "https://bitbucket.org/reelworx/rx_shariff.git",
-                "reference": "378333ba0f0e52a830d6004d8f91396353316a35"
+                "reference": "92e4e9cb709efa54b1e573e35df01a7f9d8b0807"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://bitbucket.org/reelworx/rx_shariff/get/378333ba0f0e52a830d6004d8f91396353316a35.zip",
-                "reference": "378333ba0f0e52a830d6004d8f91396353316a35",
+                "url": "https://bitbucket.org/reelworx/rx_shariff/get/92e4e9cb709efa54b1e573e35df01a7f9d8b0807.zip",
+                "reference": "92e4e9cb709efa54b1e573e35df01a7f9d8b0807",
                 "shasum": ""
             },
             "require": {
@@ -1391,7 +1391,7 @@
             ],
             "description": "Shariff implementation for TYPO3 CMS including the backend module, a viewhelper and a plugin.",
             "homepage": "https://bitbucket.org/reelworx/rx_shariff",
-            "time": "2017-10-25T15:28:44+00:00"
+            "time": "2017-11-20T12:32:26+00:00"
         },
         {
             "name": "solarium/solarium",
@@ -1616,12 +1616,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/subugoe/typo3-tmpl_fidaac.git",
-                "reference": "c94dbff33ee71cb17bbd8029a43f373420854055"
+                "reference": "f41095b40058c1e0c1897e9bc2e4919c9739583a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/subugoe/typo3-tmpl_fidaac/zipball/c94dbff33ee71cb17bbd8029a43f373420854055",
-                "reference": "c94dbff33ee71cb17bbd8029a43f373420854055",
+                "url": "https://api.github.com/repos/subugoe/typo3-tmpl_fidaac/zipball/f41095b40058c1e0c1897e9bc2e4919c9739583a",
+                "reference": "f41095b40058c1e0c1897e9bc2e4919c9739583a",
                 "shasum": ""
             },
             "require-dev": {
@@ -1650,7 +1650,7 @@
                 "source": "https://github.com/subugoe/typo3-tmpl_fidaac/tree/develop",
                 "issues": "https://github.com/subugoe/typo3-tmpl_fidaac/issues"
             },
-            "time": "2017-11-16T11:34:38+00:00"
+            "time": "2017-11-22T09:19:10+00:00"
         },
         {
             "name": "swiftmailer/swiftmailer",
@@ -1708,16 +1708,16 @@
         },
         {
             "name": "symfony/console",
-            "version": "v3.3.12",
+            "version": "v3.3.13",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/console.git",
-                "reference": "099302cc53e57cbb7414fd9f3ace40e5e2767c0b"
+                "reference": "63cd7960a0a522c3537f6326706d7f3b8de65805"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/console/zipball/099302cc53e57cbb7414fd9f3ace40e5e2767c0b",
-                "reference": "099302cc53e57cbb7414fd9f3ace40e5e2767c0b",
+                "url": "https://api.github.com/repos/symfony/console/zipball/63cd7960a0a522c3537f6326706d7f3b8de65805",
+                "reference": "63cd7960a0a522c3537f6326706d7f3b8de65805",
                 "shasum": ""
             },
             "require": {
@@ -1772,11 +1772,11 @@
             ],
             "description": "Symfony Console Component",
             "homepage": "https://symfony.com",
-            "time": "2017-11-12T16:53:41+00:00"
+            "time": "2017-11-16T15:24:32+00:00"
         },
         {
             "name": "symfony/debug",
-            "version": "v3.3.12",
+            "version": "v3.3.13",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/debug.git",
@@ -1832,7 +1832,7 @@
         },
         {
             "name": "symfony/event-dispatcher",
-            "version": "v3.3.12",
+            "version": "v3.3.13",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/event-dispatcher.git",
@@ -1895,7 +1895,7 @@
         },
         {
             "name": "symfony/finder",
-            "version": "v3.3.12",
+            "version": "v3.3.13",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/finder.git",
@@ -2003,7 +2003,7 @@
         },
         {
             "name": "symfony/process",
-            "version": "v3.3.12",
+            "version": "v3.3.13",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/process.git",
@@ -2052,7 +2052,7 @@
         },
         {
             "name": "symfony/yaml",
-            "version": "v3.3.12",
+            "version": "v3.3.13",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/yaml.git",
