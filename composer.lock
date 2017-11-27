@@ -1616,12 +1616,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/subugoe/typo3-tmpl_fidaac.git",
-                "reference": "a07c4d863129c29056b7cf9cf1a2e66a3c21c8f4"
+                "reference": "d94607c25a6dfa7dac66105352f2facbfeae6245"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/subugoe/typo3-tmpl_fidaac/zipball/a07c4d863129c29056b7cf9cf1a2e66a3c21c8f4",
-                "reference": "a07c4d863129c29056b7cf9cf1a2e66a3c21c8f4",
+                "url": "https://api.github.com/repos/subugoe/typo3-tmpl_fidaac/zipball/d94607c25a6dfa7dac66105352f2facbfeae6245",
+                "reference": "d94607c25a6dfa7dac66105352f2facbfeae6245",
                 "shasum": ""
             },
             "require-dev": {
@@ -1650,7 +1650,7 @@
                 "source": "https://github.com/subugoe/typo3-tmpl_fidaac/tree/develop",
                 "issues": "https://github.com/subugoe/typo3-tmpl_fidaac/issues"
             },
-            "time": "2017-11-22T13:59:35+00:00"
+            "time": "2017-11-27T19:11:39+00:00"
         },
         {
             "name": "swiftmailer/swiftmailer",
