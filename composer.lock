@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "8bd4b70ed52f6e3ef6925be3dd1446e7",
+    "content-hash": "370047f88347dd983d3cdf18522e9b7d",
     "packages": [
         {
             "name": "apache-solr-for-typo3/solr",
@@ -717,16 +717,16 @@
         },
         {
             "name": "fluidtypo3/vhs",
-            "version": "4.3.2",
+            "version": "4.3.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/FluidTYPO3/vhs.git",
-                "reference": "a516c9d82fde9fd437d46cdddfb5ae24db7a3dca"
+                "reference": "101b8a504fe13d61ff0501012bd833f94a3b69af"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/FluidTYPO3/vhs/zipball/a516c9d82fde9fd437d46cdddfb5ae24db7a3dca",
-                "reference": "a516c9d82fde9fd437d46cdddfb5ae24db7a3dca",
+                "url": "https://api.github.com/repos/FluidTYPO3/vhs/zipball/101b8a504fe13d61ff0501012bd833f94a3b69af",
+                "reference": "101b8a504fe13d61ff0501012bd833f94a3b69af",
                 "shasum": ""
             },
             "require": {
@@ -769,7 +769,7 @@
                 "utility",
                 "viewhelper"
             ],
-            "time": "2017-09-19T14:06:56+00:00"
+            "time": "2017-10-26T22:21:12+00:00"
         },
         {
             "name": "georgringer/news",
@@ -1352,16 +1352,16 @@
         },
         {
             "name": "reelworx/rx-shariff",
-            "version": "10.1.0",
+            "version": "10.2.1",
             "source": {
                 "type": "git",
                 "url": "https://bitbucket.org/reelworx/rx_shariff.git",
-                "reference": "fe7dbf79aec776b043da3b05a863ee0327fb83e5"
+                "reference": "92e4e9cb709efa54b1e573e35df01a7f9d8b0807"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://bitbucket.org/reelworx/rx_shariff/get/fe7dbf79aec776b043da3b05a863ee0327fb83e5.zip",
-                "reference": "fe7dbf79aec776b043da3b05a863ee0327fb83e5",
+                "url": "https://bitbucket.org/reelworx/rx_shariff/get/92e4e9cb709efa54b1e573e35df01a7f9d8b0807.zip",
+                "reference": "92e4e9cb709efa54b1e573e35df01a7f9d8b0807",
                 "shasum": ""
             },
             "require": {
@@ -1391,7 +1391,7 @@
             ],
             "description": "Shariff implementation for TYPO3 CMS including the backend module, a viewhelper and a plugin.",
             "homepage": "https://bitbucket.org/reelworx/rx_shariff",
-            "time": "2017-09-01T19:54:46+00:00"
+            "time": "2017-11-20T12:32:26+00:00"
         },
         {
             "name": "solarium/solarium",
@@ -1453,16 +1453,16 @@
         },
         {
             "name": "subugoe/ezbrequest",
-            "version": "3.1.0",
+            "version": "3.2.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/subugoe/typo3-ezbrequest.git",
-                "reference": "4faabb8ba93ad2dea0df130d8831f4648e8c2556"
+                "reference": "bdd0e3cb6aff3f4c3cf85cc0102480d394133699"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/subugoe/typo3-ezbrequest/zipball/4faabb8ba93ad2dea0df130d8831f4648e8c2556",
-                "reference": "4faabb8ba93ad2dea0df130d8831f4648e8c2556",
+                "url": "https://api.github.com/repos/subugoe/typo3-ezbrequest/zipball/bdd0e3cb6aff3f4c3cf85cc0102480d394133699",
+                "reference": "bdd0e3cb6aff3f4c3cf85cc0102480d394133699",
                 "shasum": ""
             },
             "type": "typo3-cms-extension",
@@ -1485,7 +1485,7 @@
                 }
             ],
             "description": "EZBRequest for journals",
-            "time": "2017-10-18T11:01:38+00:00"
+            "time": "2017-11-06T10:57:05+00:00"
         },
         {
             "name": "subugoe/find",
@@ -1546,16 +1546,16 @@
         },
         {
             "name": "subugoe/nkwgok",
-            "version": "8.x-dev",
+            "version": "5.1.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/subugoe/typo3-nkwgok.git",
-                "reference": "a32039840da612e227beef21d471533a9513ee30"
+                "reference": "39d22c7f3675522a9bb05f849cae69e71cb62451"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/subugoe/typo3-nkwgok/zipball/a32039840da612e227beef21d471533a9513ee30",
-                "reference": "a32039840da612e227beef21d471533a9513ee30",
+                "url": "https://api.github.com/repos/subugoe/typo3-nkwgok/zipball/39d22c7f3675522a9bb05f849cae69e71cb62451",
+                "reference": "39d22c7f3675522a9bb05f849cae69e71cb62451",
                 "shasum": ""
             },
             "type": "typo3-cms-extension",
@@ -1575,7 +1575,7 @@
                 }
             ],
             "description": "Subject hierarchy for TYPO3",
-            "time": "2017-10-18T12:24:13+00:00"
+            "time": "2017-11-22T13:05:24+00:00"
         },
         {
             "name": "subugoe/pazpar2",
@@ -1616,12 +1616,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/subugoe/typo3-tmpl_fidaac.git",
-                "reference": "81fd5f0862655b82916e33788292523f7dc26da5"
+                "reference": "638ea624122d0d74755a7c33569b12598b65aa35"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/subugoe/typo3-tmpl_fidaac/zipball/81fd5f0862655b82916e33788292523f7dc26da5",
-                "reference": "81fd5f0862655b82916e33788292523f7dc26da5",
+                "url": "https://api.github.com/repos/subugoe/typo3-tmpl_fidaac/zipball/638ea624122d0d74755a7c33569b12598b65aa35",
+                "reference": "638ea624122d0d74755a7c33569b12598b65aa35",
                 "shasum": ""
             },
             "require-dev": {
@@ -1650,7 +1650,7 @@
                 "source": "https://github.com/subugoe/typo3-tmpl_fidaac/tree/develop",
                 "issues": "https://github.com/subugoe/typo3-tmpl_fidaac/issues"
             },
-            "time": "2017-10-25T13:31:47+00:00"
+            "time": "2017-11-29T01:39:41+00:00"
         },
         {
             "name": "swiftmailer/swiftmailer",
@@ -1708,16 +1708,16 @@
         },
         {
             "name": "symfony/console",
-            "version": "v3.3.10",
+            "version": "v3.3.13",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/console.git",
-                "reference": "116bc56e45a8e5572e51eb43ab58c769a352366c"
+                "reference": "63cd7960a0a522c3537f6326706d7f3b8de65805"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/console/zipball/116bc56e45a8e5572e51eb43ab58c769a352366c",
-                "reference": "116bc56e45a8e5572e51eb43ab58c769a352366c",
+                "url": "https://api.github.com/repos/symfony/console/zipball/63cd7960a0a522c3537f6326706d7f3b8de65805",
+                "reference": "63cd7960a0a522c3537f6326706d7f3b8de65805",
                 "shasum": ""
             },
             "require": {
@@ -1772,20 +1772,20 @@
             ],
             "description": "Symfony Console Component",
             "homepage": "https://symfony.com",
-            "time": "2017-10-02T06:42:24+00:00"
+            "time": "2017-11-16T15:24:32+00:00"
         },
         {
             "name": "symfony/debug",
-            "version": "v3.3.10",
+            "version": "v3.3.13",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/debug.git",
-                "reference": "eb95d9ce8f18dcc1b3dfff00cb624c402be78ffd"
+                "reference": "74557880e2846b5c84029faa96b834da37e29810"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/debug/zipball/eb95d9ce8f18dcc1b3dfff00cb624c402be78ffd",
-                "reference": "eb95d9ce8f18dcc1b3dfff00cb624c402be78ffd",
+                "url": "https://api.github.com/repos/symfony/debug/zipball/74557880e2846b5c84029faa96b834da37e29810",
+                "reference": "74557880e2846b5c84029faa96b834da37e29810",
                 "shasum": ""
             },
             "require": {
@@ -1828,20 +1828,20 @@
             ],
             "description": "Symfony Debug Component",
             "homepage": "https://symfony.com",
-            "time": "2017-10-02T06:42:24+00:00"
+            "time": "2017-11-10T16:38:39+00:00"
         },
         {
             "name": "symfony/event-dispatcher",
-            "version": "v3.3.10",
+            "version": "v3.3.13",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/event-dispatcher.git",
-                "reference": "d7ba037e4b8221956ab1e221c73c9e27e05dd423"
+                "reference": "271d8c27c3ec5ecee6e2ac06016232e249d638d9"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/event-dispatcher/zipball/d7ba037e4b8221956ab1e221c73c9e27e05dd423",
-                "reference": "d7ba037e4b8221956ab1e221c73c9e27e05dd423",
+                "url": "https://api.github.com/repos/symfony/event-dispatcher/zipball/271d8c27c3ec5ecee6e2ac06016232e249d638d9",
+                "reference": "271d8c27c3ec5ecee6e2ac06016232e249d638d9",
                 "shasum": ""
             },
             "require": {
@@ -1891,20 +1891,20 @@
             ],
             "description": "Symfony EventDispatcher Component",
             "homepage": "https://symfony.com",
-            "time": "2017-10-02T06:42:24+00:00"
+            "time": "2017-11-05T15:47:03+00:00"
         },
         {
             "name": "symfony/finder",
-            "version": "v3.3.10",
+            "version": "v3.3.13",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/finder.git",
-                "reference": "773e19a491d97926f236942484cb541560ce862d"
+                "reference": "138af5ec075d4b1d1bd19de08c38a34bb2d7d880"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/finder/zipball/773e19a491d97926f236942484cb541560ce862d",
-                "reference": "773e19a491d97926f236942484cb541560ce862d",
+                "url": "https://api.github.com/repos/symfony/finder/zipball/138af5ec075d4b1d1bd19de08c38a34bb2d7d880",
+                "reference": "138af5ec075d4b1d1bd19de08c38a34bb2d7d880",
                 "shasum": ""
             },
             "require": {
@@ -1940,7 +1940,7 @@
             ],
             "description": "Symfony Finder Component",
             "homepage": "https://symfony.com",
-            "time": "2017-10-02T06:42:24+00:00"
+            "time": "2017-11-05T15:47:03+00:00"
         },
         {
             "name": "symfony/polyfill-mbstring",
@@ -2003,16 +2003,16 @@
         },
         {
             "name": "symfony/process",
-            "version": "v3.3.10",
+            "version": "v3.3.13",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/process.git",
-                "reference": "fdf89e57a723a29baf536e288d6e232c059697b1"
+                "reference": "a56a3989fb762d7b19a0cf8e7693ee99a6ffb78d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/process/zipball/fdf89e57a723a29baf536e288d6e232c059697b1",
-                "reference": "fdf89e57a723a29baf536e288d6e232c059697b1",
+                "url": "https://api.github.com/repos/symfony/process/zipball/a56a3989fb762d7b19a0cf8e7693ee99a6ffb78d",
+                "reference": "a56a3989fb762d7b19a0cf8e7693ee99a6ffb78d",
                 "shasum": ""
             },
             "require": {
@@ -2048,20 +2048,20 @@
             ],
             "description": "Symfony Process Component",
             "homepage": "https://symfony.com",
-            "time": "2017-10-02T06:42:24+00:00"
+            "time": "2017-11-13T15:31:11+00:00"
         },
         {
             "name": "symfony/yaml",
-            "version": "v3.3.10",
+            "version": "v3.3.13",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/yaml.git",
-                "reference": "8c7bf1e7d5d6b05a690b715729cb4cd0c0a99c46"
+                "reference": "0938408c4faa518d95230deabb5f595bf0de31b9"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/yaml/zipball/8c7bf1e7d5d6b05a690b715729cb4cd0c0a99c46",
-                "reference": "8c7bf1e7d5d6b05a690b715729cb4cd0c0a99c46",
+                "url": "https://api.github.com/repos/symfony/yaml/zipball/0938408c4faa518d95230deabb5f595bf0de31b9",
+                "reference": "0938408c4faa518d95230deabb5f595bf0de31b9",
                 "shasum": ""
             },
             "require": {
@@ -2103,7 +2103,7 @@
             ],
             "description": "Symfony Yaml Component",
             "homepage": "https://symfony.com",
-            "time": "2017-10-05T14:43:42+00:00"
+            "time": "2017-11-10T18:26:04+00:00"
         },
         {
             "name": "typo3/class-alias-loader",
@@ -2401,21 +2401,21 @@
         },
         {
             "name": "typo3/cms-composer-installers",
-            "version": "1.4.4",
+            "version": "1.4.5",
             "source": {
                 "type": "git",
                 "url": "https://github.com/TYPO3/CmsComposerInstallers.git",
-                "reference": "6b891a8d5ffb9dec290d2a757bcb5f91c4d21dcb"
+                "reference": "0ef630f82f12aa611fb44a3e1e5491fc98b97e78"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/TYPO3/CmsComposerInstallers/zipball/6b891a8d5ffb9dec290d2a757bcb5f91c4d21dcb",
-                "reference": "6b891a8d5ffb9dec290d2a757bcb5f91c4d21dcb",
+                "url": "https://api.github.com/repos/TYPO3/CmsComposerInstallers/zipball/0ef630f82f12aa611fb44a3e1e5491fc98b97e78",
+                "reference": "0ef630f82f12aa611fb44a3e1e5491fc98b97e78",
                 "shasum": ""
             },
             "require": {
                 "composer-plugin-api": "^1.0.0",
-                "php": ">=7.0.0 <7.2"
+                "php": ">=7.0.0 <7.3"
             },
             "conflict": {
                 "composer/installers": "<1.0.24 || >1.0.24"
@@ -2466,7 +2466,7 @@
                 "installer",
                 "typo3"
             ],
-            "time": "2017-10-16T23:04:29+00:00"
+            "time": "2017-11-06T11:44:16+00:00"
         },
         {
             "name": "typo3fluid/fluid",
@@ -2555,8 +2555,7 @@
     "minimum-stability": "stable",
     "stability-flags": {
         "subugoe/tmpl-fidaac": 20,
-        "subugoe/find": 20,
-        "subugoe/nkwgok": 20
+        "subugoe/find": 20
     },
     "prefer-stable": false,
     "prefer-lowest": false,
