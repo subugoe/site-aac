@@ -50,5 +50,6 @@ Internally the services are exposed at:
 
 ```docker exec -it $(docker-compose ps -q web) /bin/bash -c "composer install"```
 
-Ensure that all composer and typo3cms related commands are executed in the docker container with 
+Ensure that all composer and typo3cms related commands are executed in the docker container with
+
 ```docker exec -it $(docker-compose ps -q web) /bin/bash -c "yor-fancy-command"```
