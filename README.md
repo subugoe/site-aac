@@ -36,7 +36,7 @@ $GLOBALS['TYPO3_CONF_VARS']['SYS']['encryptionKey'] = 'your-secret-encryption-ke
 
 ## Startup
 
-```docker-compose up -d``` will start your application and provides a web server at http://localhost:8900, a Solr instance
+```docker-compose up -d``` will start your application and provides a web server at http://localhost:8001, a Solr instance
 at http://localhost:8999, a MySQL instance at 127.0.0.1:33061.
 
 Internally the services are exposed at:
@@ -44,10 +44,10 @@ Internally the services are exposed at:
 * mysql:3306
 * solr:8983
 
-* open your browser at "http://localhost:8900"
+* open your browser at "http://localhost:8001"
 
 ## Maintenance
 
-```docker-compose run --rm --workdir="/app" --user="1000" web composer install```
+```docker exec -it $(docker-compose ps -q web) /bin/bash -c "composer install"```
 
-Ensure that all composer and typo3cms related commands are executed in the docker container with ```docker-compose run --rm --workdir="/app" --user="1000" web yor-fancy-command```
+Ensure that all composer and typo3cms related commands are executed in the docker container with ```docker exec -it $(docker-compose ps -q web) /bin/bash -c "yor-fancy-command"```
