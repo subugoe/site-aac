@@ -61,7 +61,7 @@ return [
         ],
     ],
     'FE' => [
-        'compressionLevel' => 0,
+        'compressionLevel' => 1,
         'debug' => true,
         'loginSecurityLevel' => 'rsa',
         'pageNotFoundOnCHashError' => false,
