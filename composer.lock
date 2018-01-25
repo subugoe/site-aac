@@ -1616,13 +1616,11 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/subugoe/typo3-tmpl_fidaac.git",
-                "reference": "8367bb459c0808107671d1978b623ec951cdb6ac"
                 "reference": "cbd683aee5e8b5474e2cc3f510f780e364781fe2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/subugoe/typo3-tmpl_fidaac/zipball/8367bb459c0808107671d1978b623ec951cdb6ac",
-                "reference": "8367bb459c0808107671d1978b623ec951cdb6ac",
+                "url": "https://api.github.com/repos/subugoe/typo3-tmpl_fidaac/zipball/cbd683aee5e8b5474e2cc3f510f780e364781fe2",
                 "reference": "cbd683aee5e8b5474e2cc3f510f780e364781fe2",
                 "shasum": ""
             },
