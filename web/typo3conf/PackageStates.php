@@ -65,6 +65,9 @@ return [
         'documentation' => [
             'packagePath' => 'typo3/sysext/documentation/',
         ],
+        'felogin' => [
+            'packagePath' => 'typo3/sysext/felogin/',
+        ],
         'filelist' => [
             'packagePath' => 'typo3/sysext/filelist/',
         ],
