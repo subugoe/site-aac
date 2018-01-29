@@ -25,6 +25,7 @@ return [
             'beuser' => 'a:0:{}',
             'documentation' => 'a:0:{}',
             'ezbrequest' => 'a:0:{}',
+            'felogin' => 'a:0:{}',
             'filemetadata' => 'a:0:{}',
             'find' => 'a:0:{}',
             'fluid_styled_content' => 'a:0:{}',
@@ -61,7 +62,7 @@ return [
         ],
     ],
     'FE' => [
-        'compressionLevel' => 0,
+        'compressionLevel' => 1,
         'debug' => true,
         'loginSecurityLevel' => 'rsa',
         'pageNotFoundOnCHashError' => false,
