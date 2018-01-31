@@ -65,9 +65,6 @@ return [
         'documentation' => [
             'packagePath' => 'typo3/sysext/documentation/',
         ],
-        'felogin' => [
-            'packagePath' => 'typo3/sysext/felogin/',
-        ],
         'filelist' => [
             'packagePath' => 'typo3/sysext/filelist/',
         ],
@@ -101,12 +98,6 @@ return [
         'tstemplate' => [
             'packagePath' => 'typo3/sysext/tstemplate/',
         ],
-        'rx_shariff' => [
-            'packagePath' => 'typo3conf/ext/rx_shariff/',
-        ],
-        'news' => [
-            'packagePath' => 'typo3conf/ext/news/',
-        ],
         'ezbrequest' => [
             'packagePath' => 'typo3conf/ext/ezbrequest/',
         ],
@@ -115,6 +106,9 @@ return [
         ],
         'metaseo' => [
             'packagePath' => 'typo3conf/ext/metaseo/',
+        ],
+        'news' => [
+            'packagePath' => 'typo3conf/ext/news/',
         ],
         'nkwgok' => [
             'packagePath' => 'typo3conf/ext/nkwgok/',
