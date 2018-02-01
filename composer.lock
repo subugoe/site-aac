@@ -773,16 +773,16 @@
         },
         {
             "name": "georgringer/news",
-            "version": "6.2.1",
+            "version": "6.3.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/georgringer/news.git",
-                "reference": "bc30775685d089bfed793dd39ece060037a1e21e"
+                "reference": "5d12b36e30cea3cd958e6efa1e5e6fd43d490390"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/georgringer/news/zipball/bc30775685d089bfed793dd39ece060037a1e21e",
-                "reference": "bc30775685d089bfed793dd39ece060037a1e21e",
+                "url": "https://api.github.com/repos/georgringer/news/zipball/5d12b36e30cea3cd958e6efa1e5e6fd43d490390",
+                "reference": "5d12b36e30cea3cd958e6efa1e5e6fd43d490390",
                 "shasum": ""
             },
             "require": {
@@ -835,7 +835,7 @@
                 "news",
                 "typo3"
             ],
-            "time": "2018-01-24T07:26:47+00:00"
+            "time": "2018-02-01T08:37:18+00:00"
         },
         {
             "name": "guzzlehttp/guzzle",
@@ -1616,12 +1616,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/subugoe/typo3-tmpl_fidaac.git",
-                "reference": "31582c89b52bb0e1f6967f4b53cac3bbbf950de0"
+                "reference": "c73a8a1bd0bf0a68f227330f4f8e8bb723acad47"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/subugoe/typo3-tmpl_fidaac/zipball/31582c89b52bb0e1f6967f4b53cac3bbbf950de0",
-                "reference": "31582c89b52bb0e1f6967f4b53cac3bbbf950de0",
+                "url": "https://api.github.com/repos/subugoe/typo3-tmpl_fidaac/zipball/c73a8a1bd0bf0a68f227330f4f8e8bb723acad47",
+                "reference": "c73a8a1bd0bf0a68f227330f4f8e8bb723acad47",
                 "shasum": ""
             },
             "require-dev": {
@@ -1650,7 +1650,7 @@
                 "source": "https://github.com/subugoe/typo3-tmpl_fidaac/tree/develop",
                 "issues": "https://github.com/subugoe/typo3-tmpl_fidaac/issues"
             },
-            "time": "2018-01-31T16:33:14+00:00"
+            "time": "2018-02-01T11:38:18+00:00"
         },
         {
             "name": "swiftmailer/swiftmailer",
@@ -1945,16 +1945,16 @@
         },
         {
             "name": "symfony/polyfill-mbstring",
-            "version": "v1.6.0",
+            "version": "v1.7.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/polyfill-mbstring.git",
-                "reference": "2ec8b39c38cb16674bbf3fea2b6ce5bf117e1296"
+                "reference": "78be803ce01e55d3491c1397cf1c64beb9c1b63b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/polyfill-mbstring/zipball/2ec8b39c38cb16674bbf3fea2b6ce5bf117e1296",
-                "reference": "2ec8b39c38cb16674bbf3fea2b6ce5bf117e1296",
+                "url": "https://api.github.com/repos/symfony/polyfill-mbstring/zipball/78be803ce01e55d3491c1397cf1c64beb9c1b63b",
+                "reference": "78be803ce01e55d3491c1397cf1c64beb9c1b63b",
                 "shasum": ""
             },
             "require": {
@@ -1966,7 +1966,7 @@
             "type": "library",
             "extra": {
                 "branch-alias": {
-                    "dev-master": "1.6-dev"
+                    "dev-master": "1.7-dev"
                 }
             },
             "autoload": {
@@ -2000,7 +2000,7 @@
                 "portable",
                 "shim"
             ],
-            "time": "2017-10-11T12:05:26+00:00"
+            "time": "2018-01-30T19:27:44+00:00"
         },
         {
             "name": "symfony/process",
