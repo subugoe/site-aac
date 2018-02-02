@@ -1352,16 +1352,16 @@
         },
         {
             "name": "reelworx/rx-shariff",
-            "version": "10.2.1",
+            "version": "10.3.0",
             "source": {
                 "type": "git",
                 "url": "https://bitbucket.org/reelworx/rx_shariff.git",
-                "reference": "92e4e9cb709efa54b1e573e35df01a7f9d8b0807"
+                "reference": "d9123c899f434a4b98927346912f3ad0019a682b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://bitbucket.org/reelworx/rx_shariff/get/92e4e9cb709efa54b1e573e35df01a7f9d8b0807.zip",
-                "reference": "92e4e9cb709efa54b1e573e35df01a7f9d8b0807",
+                "url": "https://bitbucket.org/reelworx/rx_shariff/get/d9123c899f434a4b98927346912f3ad0019a682b.zip",
+                "reference": "d9123c899f434a4b98927346912f3ad0019a682b",
                 "shasum": ""
             },
             "require": {
@@ -1391,7 +1391,7 @@
             ],
             "description": "Shariff implementation for TYPO3 CMS including the backend module, a viewhelper and a plugin.",
             "homepage": "https://bitbucket.org/reelworx/rx_shariff",
-            "time": "2017-11-20T12:32:26+00:00"
+            "time": "2018-02-01T23:07:00+00:00"
         },
         {
             "name": "solarium/solarium",
