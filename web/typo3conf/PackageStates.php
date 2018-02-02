@@ -104,6 +104,9 @@ return [
         'news' => [
             'packagePath' => 'typo3conf/ext/news/',
         ],
+        'rte_ckeditor_image' => [
+            'packagePath' => 'typo3conf/ext/rte_ckeditor_image/',
+        ],
         'ezbrequest' => [
             'packagePath' => 'typo3conf/ext/ezbrequest/',
         ],

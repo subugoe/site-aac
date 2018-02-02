@@ -28,7 +28,8 @@
     "in2code/powermail": "^3.22",
     "reelworx/rx-shariff": "^10.1",
     "subugoe/ezbrequest": "^3.0",
-    "solarium/solarium": "^3.8"
+    "solarium/solarium": "^3.8",
+    "netresearch/rte-ckeditor-image":"8.7.*"
   },
   "scripts": {
     "typo3-cms-scripts": [

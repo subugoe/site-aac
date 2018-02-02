@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "370047f88347dd983d3cdf18522e9b7d",
+    "content-hash": "4403e191c32ee6145eed046bdffed708",
     "packages": [
         {
             "name": "apache-solr-for-typo3/solr",
@@ -1252,6 +1252,53 @@
                 "php"
             ],
             "time": "2016-06-19T18:08:43+00:00"
+        },
+        {
+            "name": "netresearch/rte-ckeditor-image",
+            "version": "v8.7.4",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/netresearch/t3x-rte_ckeditor_image.git",
+                "reference": "4fbdf0619b39854f584c6bc4c8010414cc90e61a"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/netresearch/t3x-rte_ckeditor_image/zipball/4fbdf0619b39854f584c6bc4c8010414cc90e61a",
+                "reference": "4fbdf0619b39854f584c6bc4c8010414cc90e61a",
+                "shasum": ""
+            },
+            "require": {
+                "typo3/cms": "^8.7.0"
+            },
+            "replace": {
+                "rte_ckeditor_image": "self.version",
+                "typo3-ter/rte-ckeditor-image": "self.version"
+            },
+            "require-dev": {
+                "namelesscoder/typo3-repository-client": "^1.2"
+            },
+            "type": "typo3-cms-extension",
+            "extra": {
+                "branch-alias": {
+                    "dev-master": "1.0.x-dev"
+                },
+                "typo3/cms": {
+                    "cms-package-dir": "{$vendor-dir}/typo3/cms",
+                    "web-dir": ".Build/Web"
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "Netresearch\\RteCKEditorImage\\": "Classes/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "GPL-2.0+"
+            ],
+            "description": "Image support in CKEditor for the TYPO3 ecosystem",
+            "homepage": "https://www.netresearch.de",
+            "time": "2017-08-17T12:44:13+00:00"
         },
         {
             "name": "psr/http-message",
