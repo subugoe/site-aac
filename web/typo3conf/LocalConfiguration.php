@@ -30,6 +30,7 @@ return [
             'find' => 'a:0:{}',
             'fluid_styled_content' => 'a:0:{}',
             'form' => 'a:0:{}',
+            'impexp' => 'a:0:{}',
             'info_pagetsconfig' => 'a:0:{}',
             'lowlevel' => 'a:0:{}',
             'metaseo' => 'a:4:{s:10:"pagingSize";s:0:"";s:10:"enableBeta";s:1:"0";s:23:"enableIntegrationTTNews";s:1:"1";s:29:"sitemap_clearCachePossibility";s:0:"";}',

@@ -2169,16 +2169,16 @@
         },
         {
             "name": "typo3/cms",
-            "version": "v8.7.9",
+            "version": "8.7.10",
             "source": {
                 "type": "git",
                 "url": "https://github.com/TYPO3/TYPO3.CMS.git",
-                "reference": "50b5da136efc62be6f00d9d087648e7a523cc7cf"
+                "reference": "a33acf4e29e75f72784408ae1609bcc3406fffb0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/TYPO3/TYPO3.CMS/zipball/50b5da136efc62be6f00d9d087648e7a523cc7cf",
-                "reference": "50b5da136efc62be6f00d9d087648e7a523cc7cf",
+                "url": "https://api.github.com/repos/TYPO3/TYPO3.CMS/zipball/a33acf4e29e75f72784408ae1609bcc3406fffb0",
+                "reference": "a33acf4e29e75f72784408ae1609bcc3406fffb0",
                 "shasum": ""
             },
             "require": {
@@ -2261,7 +2261,7 @@
                 "enm1989/chromedriver": "~2.30",
                 "fiunchinho/phpunit-randomizer": "~3.0.0",
                 "friendsofphp/php-cs-fixer": "^2.0",
-                "typo3/cms-styleguide": "~8.0.8",
+                "typo3/cms-styleguide": "~8.0.14",
                 "typo3/testing-framework": "~1.2.2"
             },
             "suggest": {
@@ -2345,7 +2345,7 @@
             },
             "notification-url": "https://packagist.org/downloads/",
             "license": [
-                "GPL-2.0+"
+                "GPL-2.0-or-later"
             ],
             "authors": [
                 {
@@ -2367,7 +2367,7 @@
                 "extbase",
                 "typo3"
             ],
-            "time": "2017-12-12T16:09:50+00:00"
+            "time": "2018-02-06T10:46:02+00:00"
         },
         {
             "name": "typo3/cms-cli",
@@ -2474,16 +2474,16 @@
         },
         {
             "name": "typo3fluid/fluid",
-            "version": "2.4.0",
+            "version": "2.5.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/TYPO3/Fluid.git",
-                "reference": "f583badd3b2a90f046fe5c1e0459300325a3e0ce"
+                "reference": "5dc5836bf1bb3465cb0cc69f6471c5519d33b934"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/TYPO3/Fluid/zipball/f583badd3b2a90f046fe5c1e0459300325a3e0ce",
-                "reference": "f583badd3b2a90f046fe5c1e0459300325a3e0ce",
+                "url": "https://api.github.com/repos/TYPO3/Fluid/zipball/5dc5836bf1bb3465cb0cc69f6471c5519d33b934",
+                "reference": "5dc5836bf1bb3465cb0cc69f6471c5519d33b934",
                 "shasum": ""
             },
             "require": {
@@ -2509,7 +2509,7 @@
                 "LGPL-3.0"
             ],
             "description": "The TYPO3 Fluid template rendering engine",
-            "time": "2017-08-25T10:10:42+00:00"
+            "time": "2018-02-05T09:46:19+00:00"
         },
         {
             "name": "webdevops/metaseo",

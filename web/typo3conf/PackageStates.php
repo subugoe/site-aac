@@ -71,6 +71,9 @@ return [
         'filemetadata' => [
             'packagePath' => 'typo3/sysext/filemetadata/',
         ],
+        'impexp' => [
+            'packagePath' => 'typo3/sysext/impexp/',
+        ],
         'lowlevel' => [
             'packagePath' => 'typo3/sysext/lowlevel/',
         ],
