@@ -34,12 +34,12 @@
 #    config.compressJs and config.compressCss for GZIP compression of Frontend JS and CSS files.
 
 <FilesMatch "\.js\.gzip$">
-	# AddType "text/javascript" .gzip
+	AddType "text/javascript" .gzip
 </FilesMatch>
 <FilesMatch "\.css\.gzip$">
-	# AddType "text/css" .gzip
+	AddType "text/css" .gzip
 </FilesMatch>
-# AddEncoding gzip .gzip
+AddEncoding gzip .gzip
 
 <IfModule mod_deflate.c>
 	# Force compression for mangled `Accept-Encoding` request headers

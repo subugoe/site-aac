@@ -23,3 +23,6 @@ web/typo3conf/ENABLE_INSTALL_TOOL
 realurl_NewsPageIds.php
 /web/typo3conf/InstanceConfiguration.php
 deprecation_*.log
+
+backup.sql
+export.sql
