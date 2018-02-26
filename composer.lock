@@ -1352,16 +1352,16 @@
         },
         {
             "name": "reelworx/rx-shariff",
-            "version": "10.3.0",
+            "version": "10.3.1",
             "source": {
                 "type": "git",
                 "url": "https://bitbucket.org/reelworx/rx_shariff.git",
-                "reference": "d9123c899f434a4b98927346912f3ad0019a682b"
+                "reference": "6db678c32753cae3d8fb43218e9be1b91e35bcbc"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://bitbucket.org/reelworx/rx_shariff/get/d9123c899f434a4b98927346912f3ad0019a682b.zip",
-                "reference": "d9123c899f434a4b98927346912f3ad0019a682b",
+                "url": "https://bitbucket.org/reelworx/rx_shariff/get/6db678c32753cae3d8fb43218e9be1b91e35bcbc.zip",
+                "reference": "6db678c32753cae3d8fb43218e9be1b91e35bcbc",
                 "shasum": ""
             },
             "require": {
@@ -1380,7 +1380,7 @@
             },
             "notification-url": "https://packagist.org/downloads/",
             "license": [
-                "GPL-2.0+"
+                "GPL-2.0-or-later"
             ],
             "authors": [
                 {
@@ -1391,7 +1391,7 @@
             ],
             "description": "Shariff implementation for TYPO3 CMS including the backend module, a viewhelper and a plugin.",
             "homepage": "https://bitbucket.org/reelworx/rx_shariff",
-            "time": "2018-02-01T23:07:00+00:00"
+            "time": "2018-02-23T22:52:17+00:00"
         },
         {
             "name": "solarium/solarium",
@@ -1616,12 +1616,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/subugoe/typo3-tmpl_fidaac.git",
-                "reference": "101333881d8c998b1cce6d0800f02407567aef34"
+                "reference": "6ddef7d30c93ca53ccc8c8cb6eef51ac83e4e088"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/subugoe/typo3-tmpl_fidaac/zipball/101333881d8c998b1cce6d0800f02407567aef34",
-                "reference": "101333881d8c998b1cce6d0800f02407567aef34",
+                "url": "https://api.github.com/repos/subugoe/typo3-tmpl_fidaac/zipball/6ddef7d30c93ca53ccc8c8cb6eef51ac83e4e088",
+                "reference": "6ddef7d30c93ca53ccc8c8cb6eef51ac83e4e088",
                 "shasum": ""
             },
             "require-dev": {
@@ -1650,7 +1650,7 @@
                 "source": "https://github.com/subugoe/typo3-tmpl_fidaac/tree/develop",
                 "issues": "https://github.com/subugoe/typo3-tmpl_fidaac/issues"
             },
-            "time": "2018-02-23T09:43:49+00:00"
+            "time": "2018-02-26T08:36:00+00:00"
         },
         {
             "name": "swiftmailer/swiftmailer",
