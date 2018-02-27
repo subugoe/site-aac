@@ -12,3 +12,4 @@ if [ ! $# -eq 2 ] ;then
 fi
 
 docker exec -it $(docker-compose ps -q web) /bin/bash -c "./web/typo3/sysext/core/bin/typo3 impexp:import $1 $2"
+exit 0
