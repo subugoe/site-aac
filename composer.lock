@@ -1616,12 +1616,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/subugoe/typo3-tmpl_fidaac.git",
-                "reference": "2b4202a9fa378b645985e7e63183c3766dde8a67"
+                "reference": "d64064fcea87c2a12ad2d6779535888eed7aa6cb"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/subugoe/typo3-tmpl_fidaac/zipball/2b4202a9fa378b645985e7e63183c3766dde8a67",
-                "reference": "2b4202a9fa378b645985e7e63183c3766dde8a67",
+                "url": "https://api.github.com/repos/subugoe/typo3-tmpl_fidaac/zipball/d64064fcea87c2a12ad2d6779535888eed7aa6cb",
+                "reference": "d64064fcea87c2a12ad2d6779535888eed7aa6cb",
                 "shasum": ""
             },
             "require-dev": {
@@ -1647,10 +1647,10 @@
             ],
             "description": "FID AAC Website template",
             "support": {
-                "source": "https://github.com/subugoe/typo3-tmpl_fidaac/tree/develop",
+                "source": "https://github.com/subugoe/typo3-tmpl_fidaac/tree/WIP-886-prepare-for-responsive",
                 "issues": "https://github.com/subugoe/typo3-tmpl_fidaac/issues"
             },
-            "time": "2018-02-27T15:48:34+00:00"
+            "time": "2018-02-28T14:55:42+00:00"
         },
         {
             "name": "swiftmailer/swiftmailer",
