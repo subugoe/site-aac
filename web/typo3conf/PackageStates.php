@@ -65,14 +65,14 @@ return [
         'documentation' => [
             'packagePath' => 'typo3/sysext/documentation/',
         ],
-        'felogin' => [
-            'packagePath' => 'typo3/sysext/felogin/',
-        ],
         'filelist' => [
             'packagePath' => 'typo3/sysext/filelist/',
         ],
         'filemetadata' => [
             'packagePath' => 'typo3/sysext/filemetadata/',
+        ],
+        'impexp' => [
+            'packagePath' => 'typo3/sysext/impexp/',
         ],
         'lowlevel' => [
             'packagePath' => 'typo3/sysext/lowlevel/',

@@ -44,6 +44,7 @@ Internally the services are exposed at:
 * mysql:3306
 * solr:8983
 
+* In case you already have a database, you can call it ```backup.sql``` and import it with ```./import-db.sh```
 * open your browser at "http://localhost:8001"
 
 ## Maintenance
