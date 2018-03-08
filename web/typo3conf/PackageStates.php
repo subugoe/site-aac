@@ -113,9 +113,6 @@ return [
         'find' => [
             'packagePath' => 'typo3conf/ext/find/',
         ],
-        'metaseo' => [
-            'packagePath' => 'typo3conf/ext/metaseo/',
-        ],
         'nkwgok' => [
             'packagePath' => 'typo3conf/ext/nkwgok/',
         ],

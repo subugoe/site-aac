@@ -126,22 +126,22 @@
         },
         {
             "name": "dmitryd/typo3-realurl",
-            "version": "2.3.1",
+            "version": "2.3.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/dmitryd/typo3-realurl.git",
-                "reference": "0665f82255dece9ce93b00d81506d4da315f7938"
+                "reference": "185ab680429af42fe39b9f933476a3479e6271b6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/dmitryd/typo3-realurl/zipball/0665f82255dece9ce93b00d81506d4da315f7938",
-                "reference": "0665f82255dece9ce93b00d81506d4da315f7938",
+                "url": "https://api.github.com/repos/dmitryd/typo3-realurl/zipball/185ab680429af42fe39b9f933476a3479e6271b6",
+                "reference": "185ab680429af42fe39b9f933476a3479e6271b6",
                 "shasum": ""
             },
             "require": {
                 "ext-mbstring": "*",
-                "php": ">=5.4.0",
-                "typo3/cms-core": ">=6.2.0,<8.7.999"
+                "php": ">=5.4.0,<7.2.0",
+                "typo3/cms-core": ">=6.2.0,<9.0.0"
             },
             "conflict": {
                 "bednee/cooluri": ">0.0.1",
@@ -189,7 +189,7 @@
                 "cms",
                 "typo3"
             ],
-            "time": "2017-12-14T00:00:00+00:00"
+            "time": "2018-03-18T00:00:00+00:00"
         },
         {
             "name": "doctrine/annotations",
@@ -1616,12 +1616,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/subugoe/typo3-tmpl_fidaac.git",
-                "reference": "63982a5487be37c699373cebb2bd4af8cbd7148a"
+                "reference": "b1a9053013172443b325926ca9e08f047d6200d2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/subugoe/typo3-tmpl_fidaac/zipball/63982a5487be37c699373cebb2bd4af8cbd7148a",
-                "reference": "63982a5487be37c699373cebb2bd4af8cbd7148a",
+                "url": "https://api.github.com/repos/subugoe/typo3-tmpl_fidaac/zipball/b1a9053013172443b325926ca9e08f047d6200d2",
+                "reference": "b1a9053013172443b325926ca9e08f047d6200d2",
                 "shasum": ""
             },
             "require-dev": {
@@ -1650,7 +1650,7 @@
                 "source": "https://github.com/subugoe/typo3-tmpl_fidaac/tree/develop",
                 "issues": "https://github.com/subugoe/typo3-tmpl_fidaac/issues"
             },
-            "time": "2018-03-02T15:41:04+00:00"
+            "time": "2018-03-08T15:48:00+00:00"
         },
         {
             "name": "swiftmailer/swiftmailer",
@@ -1708,7 +1708,7 @@
         },
         {
             "name": "symfony/console",
-            "version": "v3.4.5",
+            "version": "v3.4.6",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/console.git",
@@ -1777,7 +1777,7 @@
         },
         {
             "name": "symfony/debug",
-            "version": "v3.4.5",
+            "version": "v3.4.6",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/debug.git",
@@ -1833,7 +1833,7 @@
         },
         {
             "name": "symfony/event-dispatcher",
-            "version": "v3.4.5",
+            "version": "v3.4.6",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/event-dispatcher.git",
@@ -1896,16 +1896,16 @@
         },
         {
             "name": "symfony/finder",
-            "version": "v3.4.5",
+            "version": "v3.4.6",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/finder.git",
-                "reference": "6a615613745cef820d807443f32076bb9f5d0a38"
+                "reference": "a479817ce0a9e4adfd7d39c6407c95d97c254625"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/finder/zipball/6a615613745cef820d807443f32076bb9f5d0a38",
-                "reference": "6a615613745cef820d807443f32076bb9f5d0a38",
+                "url": "https://api.github.com/repos/symfony/finder/zipball/a479817ce0a9e4adfd7d39c6407c95d97c254625",
+                "reference": "a479817ce0a9e4adfd7d39c6407c95d97c254625",
                 "shasum": ""
             },
             "require": {
@@ -1941,7 +1941,7 @@
             ],
             "description": "Symfony Finder Component",
             "homepage": "https://symfony.com",
-            "time": "2018-02-11T17:15:12+00:00"
+            "time": "2018-03-05T18:28:11+00:00"
         },
         {
             "name": "symfony/polyfill-mbstring",
@@ -2004,7 +2004,7 @@
         },
         {
             "name": "symfony/process",
-            "version": "v3.4.5",
+            "version": "v3.4.6",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/process.git",
@@ -2053,7 +2053,7 @@
         },
         {
             "name": "symfony/yaml",
-            "version": "v3.4.5",
+            "version": "v3.4.6",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/yaml.git",
@@ -2474,16 +2474,16 @@
         },
         {
             "name": "typo3fluid/fluid",
-            "version": "2.5.1",
+            "version": "2.5.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/TYPO3/Fluid.git",
-                "reference": "becacd0d58fcd75ae804816c66d1f2cb4667ebf8"
+                "reference": "96828da06bd13066e21dea30ef7d91af7c11de69"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/TYPO3/Fluid/zipball/becacd0d58fcd75ae804816c66d1f2cb4667ebf8",
-                "reference": "becacd0d58fcd75ae804816c66d1f2cb4667ebf8",
+                "url": "https://api.github.com/repos/TYPO3/Fluid/zipball/96828da06bd13066e21dea30ef7d91af7c11de69",
+                "reference": "96828da06bd13066e21dea30ef7d91af7c11de69",
                 "shasum": ""
             },
             "require": {
@@ -2509,7 +2509,7 @@
                 "LGPL-3.0-or-later"
             ],
             "description": "The TYPO3 Fluid template rendering engine",
-            "time": "2018-02-28T21:48:22+00:00"
+            "time": "2018-03-07T11:36:05+00:00"
         },
         {
             "name": "webdevops/metaseo",
