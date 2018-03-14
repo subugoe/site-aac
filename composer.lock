@@ -717,16 +717,16 @@
         },
         {
             "name": "fluidtypo3/vhs",
-            "version": "4.3.3",
+            "version": "4.4.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/FluidTYPO3/vhs.git",
-                "reference": "101b8a504fe13d61ff0501012bd833f94a3b69af"
+                "reference": "0e1c001ce1bd2ee130aa6c4233d10bd4a0c3944e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/FluidTYPO3/vhs/zipball/101b8a504fe13d61ff0501012bd833f94a3b69af",
-                "reference": "101b8a504fe13d61ff0501012bd833f94a3b69af",
+                "url": "https://api.github.com/repos/FluidTYPO3/vhs/zipball/0e1c001ce1bd2ee130aa6c4233d10bd4a0c3944e",
+                "reference": "0e1c001ce1bd2ee130aa6c4233d10bd4a0c3944e",
                 "shasum": ""
             },
             "require": {
@@ -757,7 +757,7 @@
             },
             "notification-url": "https://packagist.org/downloads/",
             "license": [
-                "GPL-2.0+"
+                "GPL-2.0-or-later"
             ],
             "description": "The vhs package from FluidTYPO3",
             "homepage": "https://fluidtypo3.org",
@@ -769,7 +769,7 @@
                 "utility",
                 "viewhelper"
             ],
-            "time": "2017-10-26T22:21:12+00:00"
+            "time": "2018-03-11T08:26:39+00:00"
         },
         {
             "name": "georgringer/news",
@@ -1616,12 +1616,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/subugoe/typo3-tmpl_fidaac.git",
-                "reference": "fc0c430e9093fc2707c2301d5e6b1b0bb27628ce"
+                "reference": "3dda4411e048b16a95903bd61f251acff33fcc8a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/subugoe/typo3-tmpl_fidaac/zipball/fc0c430e9093fc2707c2301d5e6b1b0bb27628ce",
-                "reference": "fc0c430e9093fc2707c2301d5e6b1b0bb27628ce",
+                "url": "https://api.github.com/repos/subugoe/typo3-tmpl_fidaac/zipball/3dda4411e048b16a95903bd61f251acff33fcc8a",
+                "reference": "3dda4411e048b16a95903bd61f251acff33fcc8a",
                 "shasum": ""
             },
             "require-dev": {
@@ -1650,7 +1650,7 @@
                 "source": "https://github.com/subugoe/typo3-tmpl_fidaac/tree/develop",
                 "issues": "https://github.com/subugoe/typo3-tmpl_fidaac/issues"
             },
-            "time": "2018-03-09T08:15:51+00:00"
+            "time": "2018-03-14T09:14:04+00:00"
         },
         {
             "name": "swiftmailer/swiftmailer",
@@ -2169,16 +2169,16 @@
         },
         {
             "name": "typo3/cms",
-            "version": "8.7.10",
+            "version": "v8.7.11",
             "source": {
                 "type": "git",
                 "url": "https://github.com/TYPO3/TYPO3.CMS.git",
-                "reference": "a33acf4e29e75f72784408ae1609bcc3406fffb0"
+                "reference": "a12fcf718b166376aec739f5159583f7725ba1c7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/TYPO3/TYPO3.CMS/zipball/a33acf4e29e75f72784408ae1609bcc3406fffb0",
-                "reference": "a33acf4e29e75f72784408ae1609bcc3406fffb0",
+                "url": "https://api.github.com/repos/TYPO3/TYPO3.CMS/zipball/a12fcf718b166376aec739f5159583f7725ba1c7",
+                "reference": "a12fcf718b166376aec739f5159583f7725ba1c7",
                 "shasum": ""
             },
             "require": {
@@ -2191,7 +2191,7 @@
                 "ext-xml": "*",
                 "guzzlehttp/guzzle": "^6.3.0",
                 "mso/idna-convert": "^1.1.0",
-                "php": "^7.0",
+                "php": ">=7.0.0 <=7.2.99",
                 "psr/http-message": "~1.0",
                 "psr/log": "~1.0.0",
                 "swiftmailer/swiftmailer": "~5.4.5",
@@ -2367,7 +2367,7 @@
                 "extbase",
                 "typo3"
             ],
-            "time": "2018-02-06T10:46:02+00:00"
+            "time": "2018-03-13T12:44:45+00:00"
         },
         {
             "name": "typo3/cms-cli",
@@ -2474,16 +2474,16 @@
         },
         {
             "name": "typo3fluid/fluid",
-            "version": "2.5.2",
+            "version": "2.5.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/TYPO3/Fluid.git",
-                "reference": "96828da06bd13066e21dea30ef7d91af7c11de69"
+                "reference": "c73ee75275eb5e4db7f158df03116fd594f33dde"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/TYPO3/Fluid/zipball/96828da06bd13066e21dea30ef7d91af7c11de69",
-                "reference": "96828da06bd13066e21dea30ef7d91af7c11de69",
+                "url": "https://api.github.com/repos/TYPO3/Fluid/zipball/c73ee75275eb5e4db7f158df03116fd594f33dde",
+                "reference": "c73ee75275eb5e4db7f158df03116fd594f33dde",
                 "shasum": ""
             },
             "require": {
@@ -2509,7 +2509,7 @@
                 "LGPL-3.0-or-later"
             ],
             "description": "The TYPO3 Fluid template rendering engine",
-            "time": "2018-03-07T11:36:05+00:00"
+            "time": "2018-03-08T16:24:54+00:00"
         },
         {
             "name": "webdevops/metaseo",
