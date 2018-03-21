@@ -1352,20 +1352,20 @@
         },
         {
             "name": "reelworx/rx-shariff",
-            "version": "10.3.1",
+            "version": "10.3.2",
             "source": {
                 "type": "git",
                 "url": "https://bitbucket.org/reelworx/rx_shariff.git",
-                "reference": "6db678c32753cae3d8fb43218e9be1b91e35bcbc"
+                "reference": "f519ae7ec7fca21f439ffc8f0d8abdf8a22e9a3b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://bitbucket.org/reelworx/rx_shariff/get/6db678c32753cae3d8fb43218e9be1b91e35bcbc.zip",
-                "reference": "6db678c32753cae3d8fb43218e9be1b91e35bcbc",
+                "url": "https://bitbucket.org/reelworx/rx_shariff/get/f519ae7ec7fca21f439ffc8f0d8abdf8a22e9a3b.zip",
+                "reference": "f519ae7ec7fca21f439ffc8f0d8abdf8a22e9a3b",
                 "shasum": ""
             },
             "require": {
-                "php": "5.6.0 - 7.1.99",
+                "php": "5.6.0 - 7.2.99",
                 "typo3/cms-core": "6.2.9 - 8.7.99"
             },
             "replace": {
@@ -1391,7 +1391,7 @@
             ],
             "description": "Shariff implementation for TYPO3 CMS including the backend module, a viewhelper and a plugin.",
             "homepage": "https://bitbucket.org/reelworx/rx_shariff",
-            "time": "2018-02-23T22:52:17+00:00"
+            "time": "2018-03-20T21:35:44+00:00"
         },
         {
             "name": "solarium/solarium",
@@ -1493,12 +1493,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/subugoe/typo3-find.git",
-                "reference": "39afa3e84b89a471bc1689d3ba93452cf680950d"
+                "reference": "2084486fbf8c7db1daeaff50b2428bea6091c6ab"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/subugoe/typo3-find/zipball/39afa3e84b89a471bc1689d3ba93452cf680950d",
-                "reference": "39afa3e84b89a471bc1689d3ba93452cf680950d",
+                "url": "https://api.github.com/repos/subugoe/typo3-find/zipball/2084486fbf8c7db1daeaff50b2428bea6091c6ab",
+                "reference": "2084486fbf8c7db1daeaff50b2428bea6091c6ab",
                 "shasum": ""
             },
             "require": {
@@ -1542,7 +1542,7 @@
             "keywords": [
                 "TYPO3 CMS"
             ],
-            "time": "2017-06-27T11:55:23+00:00"
+            "time": "2018-03-15T09:06:58+00:00"
         },
         {
             "name": "subugoe/nkwgok",
@@ -1616,12 +1616,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/subugoe/typo3-tmpl_fidaac.git",
-                "reference": "3dda4411e048b16a95903bd61f251acff33fcc8a"
+                "reference": "abdfc1c26cd0e0b1deb69a116047f114de3eeffb"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/subugoe/typo3-tmpl_fidaac/zipball/3dda4411e048b16a95903bd61f251acff33fcc8a",
-                "reference": "3dda4411e048b16a95903bd61f251acff33fcc8a",
+                "url": "https://api.github.com/repos/subugoe/typo3-tmpl_fidaac/zipball/abdfc1c26cd0e0b1deb69a116047f114de3eeffb",
+                "reference": "abdfc1c26cd0e0b1deb69a116047f114de3eeffb",
                 "shasum": ""
             },
             "require-dev": {
@@ -1650,7 +1650,7 @@
                 "source": "https://github.com/subugoe/typo3-tmpl_fidaac/tree/develop",
                 "issues": "https://github.com/subugoe/typo3-tmpl_fidaac/issues"
             },
-            "time": "2018-03-14T09:14:04+00:00"
+            "time": "2018-03-21T09:57:15+00:00"
         },
         {
             "name": "swiftmailer/swiftmailer",
