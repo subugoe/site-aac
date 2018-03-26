@@ -839,16 +839,16 @@
         },
         {
             "name": "guzzlehttp/guzzle",
-            "version": "6.3.0",
+            "version": "6.3.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/guzzle/guzzle.git",
-                "reference": "f4db5a78a5ea468d4831de7f0bf9d9415e348699"
+                "reference": "49e42e6539f775e80c74086a710a882e1d5a8111"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/guzzle/guzzle/zipball/f4db5a78a5ea468d4831de7f0bf9d9415e348699",
-                "reference": "f4db5a78a5ea468d4831de7f0bf9d9415e348699",
+                "url": "https://api.github.com/repos/guzzle/guzzle/zipball/49e42e6539f775e80c74086a710a882e1d5a8111",
+                "reference": "49e42e6539f775e80c74086a710a882e1d5a8111",
                 "shasum": ""
             },
             "require": {
@@ -858,7 +858,7 @@
             },
             "require-dev": {
                 "ext-curl": "*",
-                "phpunit/phpunit": "^4.0 || ^5.0",
+                "phpunit/phpunit": "^4.8.35 || ^5.7 || ^6.4",
                 "psr/log": "^1.0"
             },
             "suggest": {
@@ -867,7 +867,7 @@
             "type": "library",
             "extra": {
                 "branch-alias": {
-                    "dev-master": "6.2-dev"
+                    "dev-master": "6.3-dev"
                 }
             },
             "autoload": {
@@ -900,7 +900,7 @@
                 "rest",
                 "web service"
             ],
-            "time": "2017-06-22T18:50:49+00:00"
+            "time": "2018-03-26T12:06:26+00:00"
         },
         {
             "name": "guzzlehttp/promises",
@@ -1616,12 +1616,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/subugoe/typo3-tmpl_fidaac.git",
-                "reference": "abdfc1c26cd0e0b1deb69a116047f114de3eeffb"
+                "reference": "b38dd144adee016dcacae5c381d75ecbafd54aae"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/subugoe/typo3-tmpl_fidaac/zipball/abdfc1c26cd0e0b1deb69a116047f114de3eeffb",
-                "reference": "abdfc1c26cd0e0b1deb69a116047f114de3eeffb",
+                "url": "https://api.github.com/repos/subugoe/typo3-tmpl_fidaac/zipball/b38dd144adee016dcacae5c381d75ecbafd54aae",
+                "reference": "b38dd144adee016dcacae5c381d75ecbafd54aae",
                 "shasum": ""
             },
             "require-dev": {
@@ -1650,7 +1650,7 @@
                 "source": "https://github.com/subugoe/typo3-tmpl_fidaac/tree/develop",
                 "issues": "https://github.com/subugoe/typo3-tmpl_fidaac/issues"
             },
-            "time": "2018-03-21T09:57:15+00:00"
+            "time": "2018-03-26T11:56:03+00:00"
         },
         {
             "name": "swiftmailer/swiftmailer",
@@ -2169,16 +2169,16 @@
         },
         {
             "name": "typo3/cms",
-            "version": "v8.7.11",
+            "version": "v8.7.12",
             "source": {
                 "type": "git",
                 "url": "https://github.com/TYPO3/TYPO3.CMS.git",
-                "reference": "a12fcf718b166376aec739f5159583f7725ba1c7"
+                "reference": "9e6040c33dc285a52698f9d8fade8515ec7605ac"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/TYPO3/TYPO3.CMS/zipball/a12fcf718b166376aec739f5159583f7725ba1c7",
-                "reference": "a12fcf718b166376aec739f5159583f7725ba1c7",
+                "url": "https://api.github.com/repos/TYPO3/TYPO3.CMS/zipball/9e6040c33dc285a52698f9d8fade8515ec7605ac",
+                "reference": "9e6040c33dc285a52698f9d8fade8515ec7605ac",
                 "shasum": ""
             },
             "require": {
@@ -2367,7 +2367,7 @@
                 "extbase",
                 "typo3"
             ],
-            "time": "2018-03-13T12:44:45+00:00"
+            "time": "2018-03-22T11:35:42+00:00"
         },
         {
             "name": "typo3/cms-cli",
