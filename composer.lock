@@ -839,16 +839,16 @@
         },
         {
             "name": "guzzlehttp/guzzle",
-            "version": "6.3.1",
+            "version": "6.3.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/guzzle/guzzle.git",
-                "reference": "49e42e6539f775e80c74086a710a882e1d5a8111"
+                "reference": "68d0ea14d5a3f42a20e87632a5f84931e2709c90"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/guzzle/guzzle/zipball/49e42e6539f775e80c74086a710a882e1d5a8111",
-                "reference": "49e42e6539f775e80c74086a710a882e1d5a8111",
+                "url": "https://api.github.com/repos/guzzle/guzzle/zipball/68d0ea14d5a3f42a20e87632a5f84931e2709c90",
+                "reference": "68d0ea14d5a3f42a20e87632a5f84931e2709c90",
                 "shasum": ""
             },
             "require": {
@@ -900,7 +900,7 @@
                 "rest",
                 "web service"
             ],
-            "time": "2018-03-26T12:06:26+00:00"
+            "time": "2018-03-26T16:33:04+00:00"
         },
         {
             "name": "guzzlehttp/promises",
@@ -1616,12 +1616,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/subugoe/typo3-tmpl_fidaac.git",
-                "reference": "0337032a8826f36aa6117b2ae64551767a49db46"
+                "reference": "d7a0b9abf9f9e27416a0fe87fb7ce7d46e904b21"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/subugoe/typo3-tmpl_fidaac/zipball/0337032a8826f36aa6117b2ae64551767a49db46",
-                "reference": "0337032a8826f36aa6117b2ae64551767a49db46",
+                "url": "https://api.github.com/repos/subugoe/typo3-tmpl_fidaac/zipball/d7a0b9abf9f9e27416a0fe87fb7ce7d46e904b21",
+                "reference": "d7a0b9abf9f9e27416a0fe87fb7ce7d46e904b21",
                 "shasum": ""
             },
             "require-dev": {
@@ -1650,7 +1650,7 @@
                 "source": "https://github.com/subugoe/typo3-tmpl_fidaac/tree/develop",
                 "issues": "https://github.com/subugoe/typo3-tmpl_fidaac/issues"
             },
-            "time": "2018-03-26T14:57:56+00:00"
+            "time": "2018-03-28T09:05:28+00:00"
         },
         {
             "name": "swiftmailer/swiftmailer",
