@@ -1616,12 +1616,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/subugoe/typo3-tmpl_fidaac.git",
-                "reference": "243d9e5d174f240ce00ae1b6fcb8c01a6d7a16d1"
+                "reference": "1d14abdbc7c2a55247a6e65baea12a5ac8dbc1c7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/subugoe/typo3-tmpl_fidaac/zipball/243d9e5d174f240ce00ae1b6fcb8c01a6d7a16d1",
-                "reference": "243d9e5d174f240ce00ae1b6fcb8c01a6d7a16d1",
+                "url": "https://api.github.com/repos/subugoe/typo3-tmpl_fidaac/zipball/1d14abdbc7c2a55247a6e65baea12a5ac8dbc1c7",
+                "reference": "1d14abdbc7c2a55247a6e65baea12a5ac8dbc1c7",
                 "shasum": ""
             },
             "require-dev": {
@@ -1650,7 +1650,7 @@
                 "source": "https://github.com/subugoe/typo3-tmpl_fidaac/tree/develop",
                 "issues": "https://github.com/subugoe/typo3-tmpl_fidaac/issues"
             },
-            "time": "2018-04-09T08:07:51+00:00"
+            "time": "2018-04-09T09:47:03+00:00"
         },
         {
             "name": "swiftmailer/swiftmailer",
@@ -2405,16 +2405,16 @@
         },
         {
             "name": "typo3/cms-composer-installers",
-            "version": "v1.5.1",
+            "version": "v1.5.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/TYPO3/CmsComposerInstallers.git",
-                "reference": "daf997a92b3e9f19289ce1e8d067084b3616b9c2"
+                "reference": "a5c340cafe69629869f046f4e2790fb87bfb9ded"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/TYPO3/CmsComposerInstallers/zipball/daf997a92b3e9f19289ce1e8d067084b3616b9c2",
-                "reference": "daf997a92b3e9f19289ce1e8d067084b3616b9c2",
+                "url": "https://api.github.com/repos/TYPO3/CmsComposerInstallers/zipball/a5c340cafe69629869f046f4e2790fb87bfb9ded",
+                "reference": "a5c340cafe69629869f046f4e2790fb87bfb9ded",
                 "shasum": ""
             },
             "require": {
@@ -2470,7 +2470,7 @@
                 "installer",
                 "typo3"
             ],
-            "time": "2018-04-05T23:49:31+00:00"
+            "time": "2018-04-09T08:16:52+00:00"
         },
         {
             "name": "typo3fluid/fluid",
