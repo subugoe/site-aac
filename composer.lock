@@ -8,16 +8,16 @@
     "packages": [
         {
             "name": "apache-solr-for-typo3/solr",
-            "version": "7.5.1",
+            "version": "7.5.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/TYPO3-Solr/ext-solr.git",
-                "reference": "7bf1c4701582c12add45727ad480e92f5e4515c1"
+                "reference": "41aea45bad2dae587b50d44d27248e7da72b5692"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/TYPO3-Solr/ext-solr/zipball/7bf1c4701582c12add45727ad480e92f5e4515c1",
-                "reference": "7bf1c4701582c12add45727ad480e92f5e4515c1",
+                "url": "https://api.github.com/repos/TYPO3-Solr/ext-solr/zipball/41aea45bad2dae587b50d44d27248e7da72b5692",
+                "reference": "41aea45bad2dae587b50d44d27248e7da72b5692",
                 "shasum": ""
             },
             "require": {
@@ -71,7 +71,7 @@
                 "solr",
                 "typo3"
             ],
-            "time": "2018-02-19T08:33:59+00:00"
+            "time": "2018-04-10T07:55:30+00:00"
         },
         {
             "name": "cogpowered/finediff",
@@ -1616,12 +1616,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/subugoe/typo3-tmpl_fidaac.git",
-                "reference": "1d14abdbc7c2a55247a6e65baea12a5ac8dbc1c7"
+                "reference": "577d8b454c2e6c26436e1e0c42d8826e788257e0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/subugoe/typo3-tmpl_fidaac/zipball/1d14abdbc7c2a55247a6e65baea12a5ac8dbc1c7",
-                "reference": "1d14abdbc7c2a55247a6e65baea12a5ac8dbc1c7",
+                "url": "https://api.github.com/repos/subugoe/typo3-tmpl_fidaac/zipball/577d8b454c2e6c26436e1e0c42d8826e788257e0",
+                "reference": "577d8b454c2e6c26436e1e0c42d8826e788257e0",
                 "shasum": ""
             },
             "require-dev": {
@@ -1650,7 +1650,7 @@
                 "source": "https://github.com/subugoe/typo3-tmpl_fidaac/tree/develop",
                 "issues": "https://github.com/subugoe/typo3-tmpl_fidaac/issues"
             },
-            "time": "2018-04-09T09:47:03+00:00"
+            "time": "2018-04-13T10:26:26+00:00"
         },
         {
             "name": "swiftmailer/swiftmailer",
