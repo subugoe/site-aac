@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "370047f88347dd983d3cdf18522e9b7d",
+    "content-hash": "2f345d4b53a463cd613d9788884d365d",
     "packages": [
         {
             "name": "apache-solr-for-typo3/solr",
@@ -1616,12 +1616,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/subugoe/typo3-tmpl_fidaac.git",
-                "reference": "44ad27a76de56d525cc8c54dc63990c1a23c320e"
+                "reference": "60f0ea97503479a73b731f12a89fdcb5b50ac0a8"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/subugoe/typo3-tmpl_fidaac/zipball/44ad27a76de56d525cc8c54dc63990c1a23c320e",
-                "reference": "44ad27a76de56d525cc8c54dc63990c1a23c320e",
+                "url": "https://api.github.com/repos/subugoe/typo3-tmpl_fidaac/zipball/60f0ea97503479a73b731f12a89fdcb5b50ac0a8",
+                "reference": "60f0ea97503479a73b731f12a89fdcb5b50ac0a8",
                 "shasum": ""
             },
             "require-dev": {
@@ -1650,7 +1650,7 @@
                 "source": "https://github.com/subugoe/typo3-tmpl_fidaac/tree/develop",
                 "issues": "https://github.com/subugoe/typo3-tmpl_fidaac/issues"
             },
-            "time": "2018-04-16T08:47:39+00:00"
+            "time": "2018-04-17T20:47:18+00:00"
         },
         {
             "name": "swiftmailer/swiftmailer",
@@ -2110,6 +2110,40 @@
             "time": "2018-04-03T05:14:20+00:00"
         },
         {
+            "name": "typo3-ter/fluid-styled-responsive-images",
+            "version": "8.7.1",
+            "dist": {
+                "type": "zip",
+                "url": "https://extensions.typo3.org/extension/download/fluid_styled_responsive_images/8.7.1/zip/",
+                "reference": null,
+                "shasum": null
+            },
+            "require": {
+                "php": ">= 7.0.0, <= 7.1.99",
+                "typo3/cms-core": ">= 8.7.0, <= 8.7.99"
+            },
+            "replace": {
+                "fluid_styled_responsive_images": "self.version",
+                "typo3-ter/fluid_styled_responsive_images": "self.version"
+            },
+            "type": "typo3-cms-extension",
+            "autoload": {
+                "psr-4": {
+                    "Schnitzler\\FluidStyledResponsiveImages\\": "Classes/"
+                }
+            },
+            "authors": [
+                {
+                    "name": "Alexander Schnitzler",
+                    "email": "git@alexanderschnitzler.de",
+                    "company": "",
+                    "username": "alex_schnitzler"
+                }
+            ],
+            "description": "Enables creation of responsive images for fluid styled content elements.",
+            "time": "2017-09-18T10:44:45+00:00"
+        },
+        {
             "name": "typo3/class-alias-loader",
             "version": "1.0.0",
             "source": {
@@ -2169,16 +2203,16 @@
         },
         {
             "name": "typo3/cms",
-            "version": "v8.7.12",
+            "version": "v8.7.13",
             "source": {
                 "type": "git",
                 "url": "https://github.com/TYPO3/TYPO3.CMS.git",
-                "reference": "9e6040c33dc285a52698f9d8fade8515ec7605ac"
+                "reference": "20671541a1b8d1420f4a694aebac6581b8c92c81"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/TYPO3/TYPO3.CMS/zipball/9e6040c33dc285a52698f9d8fade8515ec7605ac",
-                "reference": "9e6040c33dc285a52698f9d8fade8515ec7605ac",
+                "url": "https://api.github.com/repos/TYPO3/TYPO3.CMS/zipball/20671541a1b8d1420f4a694aebac6581b8c92c81",
+                "reference": "20671541a1b8d1420f4a694aebac6581b8c92c81",
                 "shasum": ""
             },
             "require": {
@@ -2203,6 +2237,9 @@
                 "typo3/cms-cli": "^1.0.2",
                 "typo3/cms-composer-installers": "^1.2.8",
                 "typo3fluid/fluid": "^2.3"
+            },
+            "conflict": {
+                "symfony/finder": "2.7.44 || 2.8.37 || 3.4.7 || 4.0.7"
             },
             "replace": {
                 "typo3-ter/func": "*",
@@ -2367,7 +2404,7 @@
                 "extbase",
                 "typo3"
             ],
-            "time": "2018-03-22T11:35:42+00:00"
+            "time": "2018-04-17T08:15:46+00:00"
         },
         {
             "name": "typo3/cms-cli",

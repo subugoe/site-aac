@@ -113,6 +113,9 @@ return [
         'find' => [
             'packagePath' => 'typo3conf/ext/find/',
         ],
+        'fluid_styled_responsive_images' => [
+            'packagePath' => 'typo3conf/ext/fluid_styled_responsive_images/',
+        ],
         'nkwgok' => [
             'packagePath' => 'typo3conf/ext/nkwgok/',
         ],

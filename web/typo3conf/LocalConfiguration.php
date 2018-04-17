@@ -29,6 +29,7 @@ return [
             'filemetadata' => 'a:0:{}',
             'find' => 'a:0:{}',
             'fluid_styled_content' => 'a:0:{}',
+            'fluid_styled_responsive_images' => 'a:1:{s:23:"enableSmallDefaultImage";s:1:"1";}',
             'form' => 'a:0:{}',
             'impexp' => 'a:0:{}',
             'info_pagetsconfig' => 'a:0:{}',
