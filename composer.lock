@@ -839,16 +839,16 @@
         },
         {
             "name": "guzzlehttp/guzzle",
-            "version": "6.3.2",
+            "version": "6.3.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/guzzle/guzzle.git",
-                "reference": "68d0ea14d5a3f42a20e87632a5f84931e2709c90"
+                "reference": "407b0cb880ace85c9b63c5f9551db498cb2d50ba"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/guzzle/guzzle/zipball/68d0ea14d5a3f42a20e87632a5f84931e2709c90",
-                "reference": "68d0ea14d5a3f42a20e87632a5f84931e2709c90",
+                "url": "https://api.github.com/repos/guzzle/guzzle/zipball/407b0cb880ace85c9b63c5f9551db498cb2d50ba",
+                "reference": "407b0cb880ace85c9b63c5f9551db498cb2d50ba",
                 "shasum": ""
             },
             "require": {
@@ -858,7 +858,7 @@
             },
             "require-dev": {
                 "ext-curl": "*",
-                "phpunit/phpunit": "^4.8.35 || ^5.7 || ^6.4",
+                "phpunit/phpunit": "^4.8.35 || ^5.7 || ^6.4 || ^7.0",
                 "psr/log": "^1.0"
             },
             "suggest": {
@@ -900,7 +900,7 @@
                 "rest",
                 "web service"
             ],
-            "time": "2018-03-26T16:33:04+00:00"
+            "time": "2018-04-22T15:46:56+00:00"
         },
         {
             "name": "guzzlehttp/promises",
@@ -1352,16 +1352,16 @@
         },
         {
             "name": "reelworx/rx-shariff",
-            "version": "10.3.2",
+            "version": "10.3.3",
             "source": {
                 "type": "git",
                 "url": "https://bitbucket.org/reelworx/rx_shariff.git",
-                "reference": "f519ae7ec7fca21f439ffc8f0d8abdf8a22e9a3b"
+                "reference": "d8e6033180664857c0eff6c8ed28fe42b9d8dbe1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://bitbucket.org/reelworx/rx_shariff/get/f519ae7ec7fca21f439ffc8f0d8abdf8a22e9a3b.zip",
-                "reference": "f519ae7ec7fca21f439ffc8f0d8abdf8a22e9a3b",
+                "url": "https://bitbucket.org/reelworx/rx_shariff/get/d8e6033180664857c0eff6c8ed28fe42b9d8dbe1.zip",
+                "reference": "d8e6033180664857c0eff6c8ed28fe42b9d8dbe1",
                 "shasum": ""
             },
             "require": {
@@ -1391,7 +1391,7 @@
             ],
             "description": "Shariff implementation for TYPO3 CMS including the backend module, a viewhelper and a plugin.",
             "homepage": "https://bitbucket.org/reelworx/rx_shariff",
-            "time": "2018-03-20T21:35:44+00:00"
+            "time": "2018-04-16T21:53:51+00:00"
         },
         {
             "name": "solarium/solarium",
@@ -1616,12 +1616,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/subugoe/typo3-tmpl_fidaac.git",
-                "reference": "495b5c8dd74772359847f9e2b2d15dcccf7270f1"
+                "reference": "aa6e502ae62c59320f01232040e0d11ca9927b05"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/subugoe/typo3-tmpl_fidaac/zipball/495b5c8dd74772359847f9e2b2d15dcccf7270f1",
-                "reference": "495b5c8dd74772359847f9e2b2d15dcccf7270f1",
+                "url": "https://api.github.com/repos/subugoe/typo3-tmpl_fidaac/zipball/aa6e502ae62c59320f01232040e0d11ca9927b05",
+                "reference": "aa6e502ae62c59320f01232040e0d11ca9927b05",
                 "shasum": ""
             },
             "require-dev": {
@@ -1650,7 +1650,7 @@
                 "source": "https://github.com/subugoe/typo3-tmpl_fidaac/tree/develop",
                 "issues": "https://github.com/subugoe/typo3-tmpl_fidaac/issues"
             },
-            "time": "2018-04-18T19:30:36+00:00"
+            "time": "2018-04-23T10:31:25+00:00"
         },
         {
             "name": "swiftmailer/swiftmailer",
