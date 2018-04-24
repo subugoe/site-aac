@@ -68,7 +68,7 @@ return [
         'debug' => true,
         'loginSecurityLevel' => 'rsa',
         'pageNotFoundOnCHashError' => false,
-        'pageNotFound_handling' => 'REDIRECT:/index.php?id=147',
+        'pageNotFound_handling' => 'REDIRECT:/404-error-page',
     ],
     'GFX' => [
         'jpg_quality' => '80',
