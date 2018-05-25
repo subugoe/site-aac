@@ -1616,12 +1616,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/subugoe/typo3-tmpl_fidaac.git",
-                "reference": "f89b68a4cb6315c37f2b44272d1fca13e8fa10da"
+                "reference": "3734e03e508ebbb0eda5f73a3ab45e80db9ae971"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/subugoe/typo3-tmpl_fidaac/zipball/f89b68a4cb6315c37f2b44272d1fca13e8fa10da",
-                "reference": "f89b68a4cb6315c37f2b44272d1fca13e8fa10da",
+                "url": "https://api.github.com/repos/subugoe/typo3-tmpl_fidaac/zipball/3734e03e508ebbb0eda5f73a3ab45e80db9ae971",
+                "reference": "3734e03e508ebbb0eda5f73a3ab45e80db9ae971",
                 "shasum": ""
             },
             "require-dev": {
@@ -1650,7 +1650,7 @@
                 "source": "https://github.com/subugoe/typo3-tmpl_fidaac/tree/develop",
                 "issues": "https://github.com/subugoe/typo3-tmpl_fidaac/issues"
             },
-            "time": "2018-05-24T14:05:19+00:00"
+            "time": "2018-05-25T14:22:58+00:00"
         },
         {
             "name": "swiftmailer/swiftmailer",
@@ -1708,7 +1708,7 @@
         },
         {
             "name": "symfony/console",
-            "version": "v3.4.10",
+            "version": "v3.4.11",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/console.git",
@@ -1777,7 +1777,7 @@
         },
         {
             "name": "symfony/debug",
-            "version": "v3.4.10",
+            "version": "v3.4.11",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/debug.git",
@@ -1833,7 +1833,7 @@
         },
         {
             "name": "symfony/event-dispatcher",
-            "version": "v3.4.10",
+            "version": "v3.4.11",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/event-dispatcher.git",
@@ -1896,7 +1896,7 @@
         },
         {
             "name": "symfony/finder",
-            "version": "v3.4.10",
+            "version": "v3.4.11",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/finder.git",
@@ -2059,7 +2059,7 @@
         },
         {
             "name": "symfony/process",
-            "version": "v3.4.10",
+            "version": "v3.4.11",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/process.git",
@@ -2108,7 +2108,7 @@
         },
         {
             "name": "symfony/yaml",
-            "version": "v3.4.10",
+            "version": "v3.4.11",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/yaml.git",
