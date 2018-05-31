@@ -1453,17 +1453,20 @@
         },
         {
             "name": "subugoe/ezbrequest",
-            "version": "3.2.2",
+            "version": "3.2.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/subugoe/typo3-ezbrequest.git",
-                "reference": "6dc935b7f3c592371fcc3ecc4e043b819d8c4525"
+                "reference": "08e5ba024839b2c03704225519ee22209faf0437"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/subugoe/typo3-ezbrequest/zipball/6dc935b7f3c592371fcc3ecc4e043b819d8c4525",
-                "reference": "6dc935b7f3c592371fcc3ecc4e043b819d8c4525",
+                "url": "https://api.github.com/repos/subugoe/typo3-ezbrequest/zipball/08e5ba024839b2c03704225519ee22209faf0437",
+                "reference": "08e5ba024839b2c03704225519ee22209faf0437",
                 "shasum": ""
+            },
+            "require": {
+                "typo3/cms-core": "^8.7.13 || >=9.1.0 <9.3.0"
             },
             "type": "typo3-cms-extension",
             "autoload": {
@@ -1476,7 +1479,7 @@
             },
             "notification-url": "https://packagist.org/downloads/",
             "license": [
-                "GPL-2.0+"
+                "GPL-2.0-or-later"
             ],
             "authors": [
                 {
@@ -1485,7 +1488,7 @@
                 }
             ],
             "description": "EZBRequest for journals",
-            "time": "2018-05-23T09:04:22+00:00"
+            "time": "2018-05-29T08:30:22+00:00"
         },
         {
             "name": "subugoe/find",
@@ -1546,17 +1549,20 @@
         },
         {
             "name": "subugoe/nkwgok",
-            "version": "5.1.3",
+            "version": "5.1.4",
             "source": {
                 "type": "git",
                 "url": "https://github.com/subugoe/typo3-nkwgok.git",
-                "reference": "cfccdf23b7724405d4e1ef1504a39d0b8b89b76c"
+                "reference": "ac57de8deb0cb0425e6c79b2dffddd4bcd2e2545"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/subugoe/typo3-nkwgok/zipball/cfccdf23b7724405d4e1ef1504a39d0b8b89b76c",
-                "reference": "cfccdf23b7724405d4e1ef1504a39d0b8b89b76c",
+                "url": "https://api.github.com/repos/subugoe/typo3-nkwgok/zipball/ac57de8deb0cb0425e6c79b2dffddd4bcd2e2545",
+                "reference": "ac57de8deb0cb0425e6c79b2dffddd4bcd2e2545",
                 "shasum": ""
+            },
+            "require": {
+                "typo3/cms-core": "^8.7.13 || >=9.1.0 <9.3.0"
             },
             "type": "typo3-cms-extension",
             "autoload": {
@@ -1575,7 +1581,7 @@
                 }
             ],
             "description": "Subject hierarchy for TYPO3",
-            "time": "2018-05-23T09:10:11+00:00"
+            "time": "2018-05-29T08:47:17+00:00"
         },
         {
             "name": "subugoe/pazpar2",
@@ -1616,12 +1622,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/subugoe/typo3-tmpl_fidaac.git",
-                "reference": "09b0ac6fe940c28c0eedddb6ff8033ae0fe90704"
+                "reference": "fc45b7ffa3a98a330442ea9d8af28edfd93921ee"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/subugoe/typo3-tmpl_fidaac/zipball/09b0ac6fe940c28c0eedddb6ff8033ae0fe90704",
-                "reference": "09b0ac6fe940c28c0eedddb6ff8033ae0fe90704",
+                "url": "https://api.github.com/repos/subugoe/typo3-tmpl_fidaac/zipball/fc45b7ffa3a98a330442ea9d8af28edfd93921ee",
+                "reference": "fc45b7ffa3a98a330442ea9d8af28edfd93921ee",
                 "shasum": ""
             },
             "require-dev": {
@@ -1650,7 +1656,7 @@
                 "source": "https://github.com/subugoe/typo3-tmpl_fidaac/tree/develop",
                 "issues": "https://github.com/subugoe/typo3-tmpl_fidaac/issues"
             },
-            "time": "2018-05-29T07:31:36+00:00"
+            "time": "2018-05-31T10:06:07+00:00"
         },
         {
             "name": "swiftmailer/swiftmailer",
