@@ -1020,22 +1020,22 @@
         },
         {
             "name": "helhum/typo3-console",
-            "version": "4.9.3",
+            "version": "4.9.4",
             "source": {
                 "type": "git",
                 "url": "https://github.com/TYPO3-Console/TYPO3-Console.git",
-                "reference": "cd5d9e2545484339e7f766bc2527721b6f476e0f"
+                "reference": "f190a3acd39bea6449741e13fdc3f03d360a17b3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/TYPO3-Console/TYPO3-Console/zipball/cd5d9e2545484339e7f766bc2527721b6f476e0f",
-                "reference": "cd5d9e2545484339e7f766bc2527721b6f476e0f",
+                "url": "https://api.github.com/repos/TYPO3-Console/TYPO3-Console/zipball/f190a3acd39bea6449741e13fdc3f03d360a17b3",
+                "reference": "f190a3acd39bea6449741e13fdc3f03d360a17b3",
                 "shasum": ""
             },
             "require": {
                 "ext-phar": "*",
                 "helhum/typo3-console-plugin": "^1.7.5 || ^2.0.2",
-                "php": ">=5.5.0 <7.2",
+                "php": ">=5.5.0 <7.3",
                 "symfony/console": "^2.7 || ^3.0",
                 "symfony/process": "^2.7 || ^3.0",
                 "typo3/cms-backend": "^7.6 || ^8.7",
@@ -1052,7 +1052,7 @@
             },
             "require-dev": {
                 "mikey179/vfsstream": "~1.6.0",
-                "nimut/testing-framework": "^1.0",
+                "nimut/testing-framework": "^2.0 || ^3.0",
                 "symfony/filesystem": "^3.2",
                 "typo3-console/create-reference-command": "^1.0",
                 "typo3/cms": "^8.7"
@@ -1083,7 +1083,7 @@
             },
             "notification-url": "https://packagist.org/downloads/",
             "license": [
-                "GPL-2.0+"
+                "GPL-2.0-or-later"
             ],
             "authors": [
                 {
@@ -1102,7 +1102,7 @@
                 "console",
                 "typo3"
             ],
-            "time": "2017-12-15T14:46:54+00:00"
+            "time": "2018-06-05T11:37:47+00:00"
         },
         {
             "name": "helhum/typo3-console-plugin",
@@ -1453,17 +1453,20 @@
         },
         {
             "name": "subugoe/ezbrequest",
-            "version": "3.2.2",
+            "version": "3.2.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/subugoe/typo3-ezbrequest.git",
-                "reference": "6dc935b7f3c592371fcc3ecc4e043b819d8c4525"
+                "reference": "08e5ba024839b2c03704225519ee22209faf0437"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/subugoe/typo3-ezbrequest/zipball/6dc935b7f3c592371fcc3ecc4e043b819d8c4525",
-                "reference": "6dc935b7f3c592371fcc3ecc4e043b819d8c4525",
+                "url": "https://api.github.com/repos/subugoe/typo3-ezbrequest/zipball/08e5ba024839b2c03704225519ee22209faf0437",
+                "reference": "08e5ba024839b2c03704225519ee22209faf0437",
                 "shasum": ""
+            },
+            "require": {
+                "typo3/cms-core": "^8.7.13 || >=9.1.0 <9.3.0"
             },
             "type": "typo3-cms-extension",
             "autoload": {
@@ -1476,7 +1479,7 @@
             },
             "notification-url": "https://packagist.org/downloads/",
             "license": [
-                "GPL-2.0+"
+                "GPL-2.0-or-later"
             ],
             "authors": [
                 {
@@ -1485,7 +1488,7 @@
                 }
             ],
             "description": "EZBRequest for journals",
-            "time": "2018-05-23T09:04:22+00:00"
+            "time": "2018-05-29T08:30:22+00:00"
         },
         {
             "name": "subugoe/find",
@@ -1546,17 +1549,20 @@
         },
         {
             "name": "subugoe/nkwgok",
-            "version": "5.1.3",
+            "version": "5.1.4",
             "source": {
                 "type": "git",
                 "url": "https://github.com/subugoe/typo3-nkwgok.git",
-                "reference": "cfccdf23b7724405d4e1ef1504a39d0b8b89b76c"
+                "reference": "ac57de8deb0cb0425e6c79b2dffddd4bcd2e2545"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/subugoe/typo3-nkwgok/zipball/cfccdf23b7724405d4e1ef1504a39d0b8b89b76c",
-                "reference": "cfccdf23b7724405d4e1ef1504a39d0b8b89b76c",
+                "url": "https://api.github.com/repos/subugoe/typo3-nkwgok/zipball/ac57de8deb0cb0425e6c79b2dffddd4bcd2e2545",
+                "reference": "ac57de8deb0cb0425e6c79b2dffddd4bcd2e2545",
                 "shasum": ""
+            },
+            "require": {
+                "typo3/cms-core": "^8.7.13 || >=9.1.0 <9.3.0"
             },
             "type": "typo3-cms-extension",
             "autoload": {
@@ -1575,7 +1581,7 @@
                 }
             ],
             "description": "Subject hierarchy for TYPO3",
-            "time": "2018-05-23T09:10:11+00:00"
+            "time": "2018-05-29T08:47:17+00:00"
         },
         {
             "name": "subugoe/pazpar2",
@@ -1616,12 +1622,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/subugoe/typo3-tmpl_fidaac.git",
-                "reference": "09b0ac6fe940c28c0eedddb6ff8033ae0fe90704"
+                "reference": "25e8965dd710ccaa0c7751e1c3d20128828fd6ca"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/subugoe/typo3-tmpl_fidaac/zipball/09b0ac6fe940c28c0eedddb6ff8033ae0fe90704",
-                "reference": "09b0ac6fe940c28c0eedddb6ff8033ae0fe90704",
+                "url": "https://api.github.com/repos/subugoe/typo3-tmpl_fidaac/zipball/25e8965dd710ccaa0c7751e1c3d20128828fd6ca",
+                "reference": "25e8965dd710ccaa0c7751e1c3d20128828fd6ca",
                 "shasum": ""
             },
             "require-dev": {
@@ -1650,7 +1656,7 @@
                 "source": "https://github.com/subugoe/typo3-tmpl_fidaac/tree/develop",
                 "issues": "https://github.com/subugoe/typo3-tmpl_fidaac/issues"
             },
-            "time": "2018-05-29T07:31:36+00:00"
+            "time": "2018-06-19T19:59:44+00:00"
         },
         {
             "name": "swiftmailer/swiftmailer",
@@ -2259,16 +2265,16 @@
         },
         {
             "name": "typo3/cms",
-            "version": "v8.7.15",
+            "version": "v8.7.16",
             "source": {
                 "type": "git",
                 "url": "https://github.com/TYPO3/TYPO3.CMS.git",
-                "reference": "799725362be3d260d9b214dcdd8faa2525003724"
+                "reference": "f02a014e16881b0271dda9a4a1a63ec9748b0210"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/TYPO3/TYPO3.CMS/zipball/799725362be3d260d9b214dcdd8faa2525003724",
-                "reference": "799725362be3d260d9b214dcdd8faa2525003724",
+                "url": "https://api.github.com/repos/TYPO3/TYPO3.CMS/zipball/f02a014e16881b0271dda9a4a1a63ec9748b0210",
+                "reference": "f02a014e16881b0271dda9a4a1a63ec9748b0210",
                 "shasum": ""
             },
             "require": {
@@ -2460,7 +2466,7 @@
                 "extbase",
                 "typo3"
             ],
-            "time": "2018-05-23T11:31:21+00:00"
+            "time": "2018-06-11T17:18:14+00:00"
         },
         {
             "name": "typo3/cms-cli",
