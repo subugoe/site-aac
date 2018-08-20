@@ -1496,12 +1496,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/subugoe/typo3-find.git",
-                "reference": "ab8945cf1055adfd4d76d93319666f5a727dd584"
+                "reference": "e8ec76e681f4c9cb7229467c038f4bc3aa18a704"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/subugoe/typo3-find/zipball/ab8945cf1055adfd4d76d93319666f5a727dd584",
-                "reference": "ab8945cf1055adfd4d76d93319666f5a727dd584",
+                "url": "https://api.github.com/repos/subugoe/typo3-find/zipball/e8ec76e681f4c9cb7229467c038f4bc3aa18a704",
+                "reference": "e8ec76e681f4c9cb7229467c038f4bc3aa18a704",
                 "shasum": ""
             },
             "require": {
@@ -1546,7 +1546,7 @@
             "keywords": [
                 "TYPO3 CMS"
             ],
-            "time": "2018-08-03T10:20:33+00:00"
+            "time": "2018-08-20T06:16:05+00:00"
         },
         {
             "name": "subugoe/nkwgok",
@@ -1623,12 +1623,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/subugoe/typo3-tmpl_fidaac.git",
-                "reference": "8faa9bbe811e3548389049a085097483bf480de9"
+                "reference": "fed691a966954774f0d279ca0924bfaa45a34a7d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/subugoe/typo3-tmpl_fidaac/zipball/8faa9bbe811e3548389049a085097483bf480de9",
-                "reference": "8faa9bbe811e3548389049a085097483bf480de9",
+                "url": "https://api.github.com/repos/subugoe/typo3-tmpl_fidaac/zipball/fed691a966954774f0d279ca0924bfaa45a34a7d",
+                "reference": "fed691a966954774f0d279ca0924bfaa45a34a7d",
                 "shasum": ""
             },
             "require-dev": {
@@ -1657,7 +1657,7 @@
                 "source": "https://github.com/subugoe/typo3-tmpl_fidaac/tree/develop",
                 "issues": "https://github.com/subugoe/typo3-tmpl_fidaac/issues"
             },
-            "time": "2018-08-06T12:51:41+00:00"
+            "time": "2018-08-20T08:54:33+00:00"
         },
         {
             "name": "swiftmailer/swiftmailer",
@@ -1952,25 +1952,28 @@
         },
         {
             "name": "symfony/polyfill-ctype",
-            "version": "v1.8.0",
+            "version": "v1.9.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/polyfill-ctype.git",
-                "reference": "7cc359f1b7b80fc25ed7796be7d96adc9b354bae"
+                "reference": "e3d826245268269cd66f8326bd8bc066687b4a19"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/polyfill-ctype/zipball/7cc359f1b7b80fc25ed7796be7d96adc9b354bae",
-                "reference": "7cc359f1b7b80fc25ed7796be7d96adc9b354bae",
+                "url": "https://api.github.com/repos/symfony/polyfill-ctype/zipball/e3d826245268269cd66f8326bd8bc066687b4a19",
+                "reference": "e3d826245268269cd66f8326bd8bc066687b4a19",
                 "shasum": ""
             },
             "require": {
                 "php": ">=5.3.3"
             },
+            "suggest": {
+                "ext-ctype": "For best performance"
+            },
             "type": "library",
             "extra": {
                 "branch-alias": {
-                    "dev-master": "1.8-dev"
+                    "dev-master": "1.9-dev"
                 }
             },
             "autoload": {
@@ -2003,20 +2006,20 @@
                 "polyfill",
                 "portable"
             ],
-            "time": "2018-04-30T19:57:29+00:00"
+            "time": "2018-08-06T14:22:27+00:00"
         },
         {
             "name": "symfony/polyfill-mbstring",
-            "version": "v1.8.0",
+            "version": "v1.9.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/polyfill-mbstring.git",
-                "reference": "3296adf6a6454a050679cde90f95350ad604b171"
+                "reference": "d0cd638f4634c16d8df4508e847f14e9e43168b8"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/polyfill-mbstring/zipball/3296adf6a6454a050679cde90f95350ad604b171",
-                "reference": "3296adf6a6454a050679cde90f95350ad604b171",
+                "url": "https://api.github.com/repos/symfony/polyfill-mbstring/zipball/d0cd638f4634c16d8df4508e847f14e9e43168b8",
+                "reference": "d0cd638f4634c16d8df4508e847f14e9e43168b8",
                 "shasum": ""
             },
             "require": {
@@ -2028,7 +2031,7 @@
             "type": "library",
             "extra": {
                 "branch-alias": {
-                    "dev-master": "1.8-dev"
+                    "dev-master": "1.9-dev"
                 }
             },
             "autoload": {
@@ -2062,7 +2065,7 @@
                 "portable",
                 "shim"
             ],
-            "time": "2018-04-26T10:06:28+00:00"
+            "time": "2018-08-06T14:22:27+00:00"
         },
         {
             "name": "symfony/process",
